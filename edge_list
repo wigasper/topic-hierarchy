@@ -1,0 +1,4081 @@
+implant	mouse implant 
+mouse implant 	mouse implant tumor 
+mouse implant tumor 	mouse implant tumor cell 
+implant 	tumor implant 
+tumor implant 	cell tumor implant 
+implant 	implant tumor 
+implant tumor 	implant tumor cell 
+implant tumor cell 	implant tumor cell day 
+implant 	dental implant 
+dental implant 	titanium dental implant 
+school 	school medicine 
+social 	social science 
+social science 	package social science 
+social 	package social 
+package social 	package social science 
+package social science 	statistical package social science 
+social 	social interaction 
+social interaction 	communication social interaction 
+social 	social isolation 
+social isolation 	social isolation stress 
+social isolation stress 	social isolation stress lead 
+social 	social economic 
+social economic 	social economic burden 
+social economic burden 	substantial social economic burden 
+plant 	plant cell 
+plant cell 	plant cell wall 
+plant cell wall 	degradation plant cell wall 
+plant 	animal plant 
+animal plant 	animal plant health 
+animal plant health 	animal plant health agency 
+plant 	plant animal 
+plant animal 	plant animal kingdom 
+plant animal kingdom 	shkts plant animal kingdom 
+plant 	plant extract 
+plant extract 	plant extract mixture 
+plant extract mixture 	dos plant extract mixture 
+plant 	plant polysaccharide 
+plant polysaccharide 	plant polysaccharide cause 
+plant polysaccharide cause 	majority plant polysaccharide cause 
+root 	dorsal root 
+dorsal root 	dorsal root ganglion 
+dorsal root ganglion 	dorsal root ganglion drg 
+root 	aortic root 
+aortic root 	aortic root section 
+aortic root section 	aortic root section stain 
+root 	root ganglion 
+root ganglion 	dorsal root ganglion 
+root 	root canal 
+root canal 	root canal treatment 
+root canal treatment 	lesion root canal treatment 
+root 	root mean 
+root mean 	root mean square 
+root mean square 	root mean square deviation 
+training 	exercise training 
+exercise training 	aerobic exercise training 
+training 	immune training 
+immune training 	innate immune training 
+training 	training set 
+training set 	training set test 
+training set test 	training set test set 
+training 	training data 
+training data 	training data set 
+training data set 	negative training data set 
+training 	training program 
+training program 	exercise training program 
+anterior 	anterior kidney 
+anterior kidney 	spleen anterior kidney 
+anterior 	anterior uveitis 
+anterior uveitis 	associate anterior uveitis 
+associate anterior uveitis 	au associate anterior uveitis 
+anterior 	anterior chamber 
+anterior chamber 	anterior chamber eye 
+anterior chamber eye 	inject anterior chamber eye 
+anterior 	anterior pituitary 
+anterior pituitary 	anterior pituitary dysfunction 
+anterior pituitary dysfunction 	pad anterior pituitary dysfunction 
+anterior 	spleen anterior 
+spleen anterior 	spleen anterior kidney 
+spleen anterior kidney 	blood spleen anterior kidney 
+online 	online tool 
+online tool 	perform online tool 
+online 	available online 
+available online 	data available online 
+online 	online software 
+online software 	predict online software 
+online 	online database 
+online database 	plotter online database 
+plotter online database 	obtain plotter online database 
+online 	online supplementary 
+online supplementary 	online supplementary data 
+online supplementary data 	online supplementary data file 
+education 	cell education 
+cell education 	nk cell education 
+education 	education research 
+education research 	high education research 
+education 	ministry education 
+ministry education 	ministry education research 
+ministry education research 	ministry education research bmbf 
+education 	high education 
+high education 	high education research 
+high education research 	ministry high education research 
+education 	immunology education 
+immunology education 	undergraduate immunology education 
+economic 	economic loss 
+economic loss 	huge economic loss 
+economic 	economic burden 
+economic burden 	health economic burden 
+economic 	significant economic 
+significant economic 	significant economic loss 
+significant economic loss 	cause significant economic loss 
+economic 	economic impact 
+economic impact 	significant economic impact 
+economic 	social economic 
+social economic 	social economic burden 
+social economic burden 	substantial social economic burden 
+eye 	eye disease 
+eye disease 	dry eye disease 
+eye 	dry eye 
+dry eye 	dry eye disease 
+dry eye disease 	dry eye disease ded 
+eye 	cell eye 
+cell eye 	inflammatory cell eye 
+eye 	amd eye 
+amd eye 	wet amd eye 
+eye 	skin eye 
+skin eye 	skin eye joint 
+skin eye joint 	regular skin eye joint 
+exercise 	physical exercise 
+physical exercise 	physical exercise reduce 
+physical exercise reduce 	physical exercise reduce expression 
+exercise 	exercise training 
+exercise training 	aerobic exercise training 
+exercise 	effect exercise 
+effect exercise 	adjuvant effect exercise 
+exercise 	aerobic exercise 
+aerobic exercise 	aerobic exercise training 
+aerobic exercise training 	aerobic exercise training program 
+exercise 	follow exercise 
+follow exercise 	hour follow exercise 
+fracture 	fracture heal 
+fracture heal 	bone fracture heal 
+fracture 	bone fracture 
+bone fracture 	bone fracture heal 
+bone fracture heal 	role bone fracture heal 
+fracture 	fracture gap 
+fracture gap 	fracture gap day 
+fracture gap day 	distribution fracture gap day 
+fracture 	fracture hematoma 
+fracture hematoma 	fracture hematoma sample 
+fracture hematoma sample 	investigated fracture hematoma sample 
+fracture 	fracture callus 
+fracture callus 	fracture callus wt 
+fracture callus wt 	area fracture callus wt 
+performance 	high performance 
+high performance 	high performance liquid 
+high performance liquid 	high performance liquid chromatography 
+performance 	growth performance 
+growth performance 	improve growth performance 
+performance 	diagnostic performance 
+diagnostic performance 	evaluate diagnostic performance 
+performance 	improve performance 
+improve performance 	improve performance reduce 
+improve performance reduce 	study improve performance reduce 
+performance 	good performance 
+good performance 	achieve good performance 
+survey 	cell survey 
+cell survey 	cell survey tissue 
+cell survey tissue 	phenomenon cell survey tissue 
+survey 	survey scan 
+survey scan 	survey scan acquire 
+survey scan acquire 	survey scan acquire m 
+survey 	survey show 
+survey show 	survey show supplementary 
+survey show supplementary 	survey show supplementary table 
+survey 	health survey 
+health survey 	mental health survey 
+mental health survey 	indicator mental health survey 
+survey 	recent survey 
+recent survey 	pid recent survey 
+pid recent survey 	classification pid recent survey 
+oil 	oil red 
+oil red 	stain oil red 
+stain oil red 	stain oil red red 
+oil 	oil immersion 
+oil immersion 	oil immersion objective 
+oil immersion objective 	na oil immersion objective 
+oil 	fish oil 
+fish oil 	fish oil supplementation 
+fish oil supplementation 	follow fish oil supplementation 
+oil 	oil objective 
+oil objective 	microscope oil objective 
+oil 	olive oil 
+olive oil 	virgin olive oil 
+virgin olive oil 	extra virgin olive oil 
+implant 	cell implant 
+cell implant 	tumor cell implant 
+implant 	mouse implant 
+mouse implant 	mouse implant tumor 
+mouse implant tumor 	mouse implant tumor cell 
+implant 	tumor implant 
+tumor implant 	cell tumor implant 
+implant 	implant tumor 
+implant tumor 	implant tumor cell 
+implant tumor cell 	implant tumor cell day 
+implant 	dental implant 
+dental implant 	titanium dental implant 
+school 	school medicine 
+school medicine 	university school medicine 
+school 	medical school 
+medical school 	hannover medical school 
+school 	university school 
+university school 	university school medicine 
+university school medicine 	tong university school medicine 
+school 	school child 
+school child 	primary school child 
+school 	committee school 
+committee school 	ethic committee school 
+systematic 	systematic review 
+systematic review 	recent systematic review 
+systematic 	systematic analysis 
+systematic analysis 	provide systematic analysis 
+systematic 	systematic study 
+systematic study 	need systematic study 
+systematic 	recent systematic 
+recent systematic 	recent systematic review 
+recent systematic review 	recent systematic review report 
+systematic 	perform systematic 
+perform systematic 	perform systematic review 
+perform systematic review 	perform systematic review publish 
+lateral 	lateral sclerosis 
+lateral sclerosis 	amyotrophic lateral sclerosis 
+lateral 	amyotrophic lateral 
+amyotrophic lateral 	amyotrophic lateral sclerosis 
+amyotrophic lateral sclerosis 	amyotrophic lateral sclerosis al 
+lateral 	lateral ventricle 
+lateral ventricle 	lateral ventricle lv 
+lateral ventricle lv 	lateral ventricle lv cps 
+lateral 	lateral tail 
+lateral tail 	lateral tail vein 
+lateral tail vein 	inject lateral tail vein 
+lateral 	mm lateral 
+mm lateral 	mm lateral midline 
+mm lateral midline 	mm lateral midline mm 
+biofilm 	biofilm formation 
+biofilm formation 	inhibit biofilm formation 
+biofilm 	biofilm production 
+biofilm production 	reduce biofilm production 
+biofilm 	biofilm matrix 
+biofilm matrix 	component biofilm matrix 
+component biofilm matrix 	structural component biofilm matrix 
+biofilm 	biofilm growth 
+biofilm growth 	biofilm growth bacterial 
+biofilm growth bacterial 	activate biofilm growth bacterial 
+biofilm 	biofilm infection 
+biofilm infection 	aureus biofilm infection 
+knee 	knee joint 
+knee joint 	knee joint section 
+knee joint section 	knee joint section stain 
+knee 	knee swell 
+knee swell 	increase knee swell 
+increase knee swell 	percent increase knee swell 
+knee 	knee cavity 
+knee cavity 	collect knee cavity 
+knee 	patient knee 
+patient knee 	fl patient knee 
+knee 	injection knee 
+injection knee 	injection knee joint 
+injection knee joint 	primary injection knee joint 
+surgical 	surgical resection 
+surgical resection 	complete surgical resection 
+surgical 	surgical procedure 
+surgical procedure 	surgical procedure perform 
+surgical procedure perform 	day surgical procedure perform 
+surgical 	surgical intervention 
+surgical intervention 	require surgical intervention 
+surgical 	surgical removal 
+surgical removal 	surgical removal tumor 
+surgical removal tumor 	crc surgical removal tumor 
+surgical 	surgical treatment 
+surgical treatment 	surgical treatment strategy 
+surgical treatment strategy 	base surgical treatment strategy 
+motor 	motor function 
+motor function 	improve motor function 
+motor 	motor neuron 
+motor neuron 	sensory motor neuron 
+motor 	motor impairment 
+motor impairment 	subtle motor impairment 
+motor 	motor protein 
+motor protein 	myosin motor protein 
+motor 	molecular motor 
+molecular motor 	molecular motor protein 
+molecular motor protein 	colocalization molecular motor protein 
+velocity 	cell velocity 
+cell velocity 	average cell velocity 
+velocity 	average velocity 
+average velocity 	average velocity cell 
+average velocity cell 	average velocity cell exocrine 
+velocity 	velocity cell 
+velocity cell 	average velocity cell 
+velocity 	mean velocity 
+mean velocity 	mean velocity cell 
+mean velocity cell 	mean velocity cell migrate 
+velocity 	instantaneous velocity 
+instantaneous velocity 	instantaneous velocity compare 
+instantaneous velocity compare 	high instantaneous velocity compare 
+country 	develop country 
+develop country 	develop develop country 
+country 	country high 
+country high 	develop country high 
+country 	endemic country 
+endemic country 	tb endemic country 
+country 	different country 
+different country 	study different country 
+country 	country world 
+country world 	subtropical country world 
+subtropical country world 	tropical subtropical country world 
+community 	microbial community 
+microbial community 	gut microbial community 
+community 	bacterial community 
+bacterial community 	bacterial community composition 
+bacterial community composition 	bacterial community composition gut 
+community 	scientific community 
+scientific community 	attention scientific community 
+community 	community composition 
+community composition 	bacterial community composition 
+community 	research community 
+research community 	available research community 
+foot 	foot swell 
+foot swell 	foot swell measure 
+foot swell measure 	chikv foot swell measure 
+foot 	foot process 
+foot process 	foot process effacement 
+foot process effacement 	podocyte foot process effacement 
+foot 	foot mouse 
+foot mouse 	foot mouse feed 
+foot mouse feed 	foot mouse feed fiber 
+foot 	hand foot 
+hand foot 	hand foot mouth 
+hand foot mouth 	hand foot mouth disease 
+foot 	foot pad 
+foot pad 	hind foot pad 
+hind foot pad 	hind foot pad pad 
+health 	public health 
+public health 	public health problem 
+public health problem 	major public health problem 
+health 	institute health 
+institute health 	national institute health 
+health 	health disease 
+health disease 	human health disease 
+health 	human health 
+human health 	human health disease 
+human health disease 	influence human health disease 
+health 	world health 
+world health 	world health organization 
+world health organization 	accord world health organization 
+carbon 	carbon dioxide 
+carbon dioxide 	euthanized carbon dioxide 
+carbon 	carbon source 
+carbon source 	alternative carbon source 
+carbon 	carbon monoxide 
+carbon monoxide 	carbon monoxide co 
+carbon monoxide co 	biliverdin carbon monoxide co 
+carbon 	carbon atom 
+carbon atom 	contain carbon atom 
+carbon 	carbon ion 
+carbon ion 	proton carbon ion 
+limb 	hind limb 
+hind limb 	hind limb paralysis 
+hind limb paralysis 	complete hind limb paralysis 
+limb 	limb paralysis 
+limb paralysis 	hind limb paralysis 
+hind limb paralysis 	hind limb paralysis paralysis 
+limb 	limb weakness 
+limb weakness 	hind limb weakness 
+limb 	low limb 
+low limb 	upper low limb 
+limb 	limb paresis 
+limb paresis 	hind limb paresis 
+management 	clinical management 
+clinical management 	improve clinical management 
+management 	management patient 
+management patient 	clinical management patient 
+management 	diagnosis management 
+diagnosis management 	diagnosis management patient 
+diagnosis management patient 	presentation diagnosis management patient 
+management 	disease management 
+disease management 	improve disease management 
+management 	patient management 
+patient management 	improve patient management 
+depression 	depression fatigue 
+depression fatigue 	pain depression fatigue 
+depression 	anxiety depression 
+anxiety depression 	symptom anxiety depression 
+depression 	depression anxiety 
+depression anxiety 	disorder depression anxiety 
+depression 	disorder depression 
+disorder depression 	psychiatric disorder depression 
+depression 	symptom depression 
+symptom depression 	symptom depression anxiety 
+symptom depression anxiety 	range symptom depression anxiety 
+intervention 	therapeutic intervention 
+therapeutic intervention 	target therapeutic intervention 
+intervention 	dietary intervention 
+dietary intervention 	dietary intervention go 
+dietary intervention go 	dietary intervention go combine 
+intervention 	intervention strategy 
+intervention strategy 	therapeutic intervention strategy 
+intervention 	intervention target 
+intervention target 	therapeutic intervention target 
+intervention 	intervention study 
+intervention study 	preclinical intervention study 
+pressure 	blood pressure 
+blood pressure 	increase blood pressure 
+pressure 	selective pressure 
+selective pressure 	strong selective pressure 
+pressure 	selection pressure 
+selection pressure 	high selection pressure 
+pressure 	immune pressure 
+immune pressure 	escape immune pressure 
+pressure 	evolutionary pressure 
+evolutionary pressure 	strong evolutionary pressure 
+industry 	biological industry 
+biological industry 	biological industry beit 
+biological industry beit 	biological industry beit haemek 
+industry 	chemical industry 
+chemical industry 	pure chemical industry 
+pure chemical industry 	wako pure chemical industry 
+industry 	aquaculture industry 
+aquaculture industry 	loss aquaculture industry 
+industry 	pharmaceutical industry 
+pharmaceutical industry 	lack pharmaceutical industry 
+industry 	poultry industry 
+poultry industry 	loss poultry industry 
+physical 	physical barrier 
+physical barrier 	form physical barrier 
+physical 	physical activity 
+physical activity 	regular physical activity 
+physical 	physical interaction 
+physical interaction 	direct physical interaction 
+physical 	physical exercise 
+physical exercise 	physical exercise reduce 
+physical exercise reduce 	physical exercise reduce expression 
+physical 	physical examination 
+physical examination 	physical examination reveal 
+physical examination reveal 	admission physical examination reveal 
+cognitive 	cognitive impairment 
+cognitive impairment 	mild cognitive impairment 
+cognitive 	cognitive function 
+cognitive function 	improve cognitive function 
+cognitive 	cognitive decline 
+cognitive decline 	cognitive decline depression 
+cognitive decline depression 	cognitive decline depression mouse 
+cognitive 	cognitive deficit 
+cognitive deficit 	development cognitive deficit 
+cognitive 	cognitive dysfunction 
+cognitive dysfunction 	postoperative cognitive dysfunction 
+polymer 	pic polymer 
+pic polymer 	cold pic polymer 
+polymer 	polymer detection 
+polymer detection 	polymer detection aec 
+polymer detection aec 	polymer detection aec red 
+polymer 	biodegradable polymer 
+biodegradable polymer 	biocompatible biodegradable polymer 
+polymer 	plga polymer 
+plga polymer 	acid plga polymer 
+acid plga polymer 	poly acid plga polymer 
+polymer 	hrp polymer 
+hrp polymer 	hrp polymer kit 
+hrp polymer kit 	promark hrp polymer kit 
+framework 	framework region 
+framework region 	framework region fr 
+framework region fr 	group framework region fr 
+framework 	conceptual framework 
+conceptual framework 	provide conceptual framework 
+framework 	provide framework 
+provide framework 	study provide framework 
+framework 	framework gene 
+framework gene 	haplotype framework gene 
+framework 	model framework 
+model framework 	model model framework 
+accuracy 	accuracy integrity 
+accuracy integrity 	accuracy integrity work 
+accuracy integrity work 	relate accuracy integrity work 
+accuracy 	relate accuracy 
+relate accuracy 	relate accuracy integrity 
+relate accuracy integrity 	question relate accuracy integrity 
+accuracy 	diagnostic accuracy 
+diagnostic accuracy 	high diagnostic accuracy 
+accuracy 	high accuracy 
+high accuracy 	show high accuracy 
+accuracy 	accuracy data 
+accuracy data 	accuracy data analysis 
+accuracy data analysis 	data accuracy data analysis 
+absorption 	nutrient absorption 
+nutrient absorption 	digestion nutrient absorption 
+absorption 	absorption nutrient 
+absorption nutrient 	digestion absorption nutrient 
+absorption 	digestion absorption 
+digestion absorption 	digestion absorption nutrient 
+digestion absorption nutrient 	role digestion absorption nutrient 
+absorption 	acid absorption 
+acid absorption 	fatty acid absorption 
+absorption 	intestinal absorption 
+intestinal absorption 	poor intestinal absorption 
+society 	international society 
+international society 	international society cellular 
+international society cellular 	international society cellular therapy 
+society 	european society 
+european society 	european society immunodeficiency 
+european society immunodeficiency 	european society immunodeficiency esid 
+society 	immunological society 
+immunological society 	union immunological society 
+society 	society immunodeficiency 
+society immunodeficiency 	european society immunodeficiency 
+society 	american society 
+american society 	american society apheresis 
+american society apheresis 	american society apheresis recommend 
+participant 	study participant 
+study participant 	obtain study participant 
+obtain study participant 	obtain study participant participant 
+participant 	human participant 
+human participant 	involve human participant 
+participant 	participant review 
+participant review 	human participant review 
+human participant review 	involve human participant review 
+participant 	obtain participant 
+obtain participant 	consent obtain participant 
+consent obtain participant 	consent obtain participant participant 
+participant 	participant study 
+participant study 	obtain participant study 
+obtain participant study 	obtain participant study study 
+qualitative 	quantitative qualitative 
+quantitative qualitative 	quantitative qualitative difference 
+quantitative qualitative difference 	show quantitative qualitative difference 
+qualitative 	qualitative quantitative 
+qualitative quantitative 	qualitative quantitative difference 
+qualitative quantitative difference 	qualitative quantitative difference adult 
+qualitative 	qualitative difference 
+qualitative difference 	quantitative qualitative difference 
+qualitative 	qualitative change 
+qualitative change 	quantitative qualitative change 
+qualitative 	qualitative analysis 
+qualitative analysis 	quantitative qualitative analysis 
+public 	public health 
+public health 	public health problem 
+public health problem 	major public health problem 
+public 	major public 
+major public 	major public health 
+major public health 	major public health problem 
+public 	public clonotypes 
+public clonotypes 	public clonotypes share 
+public clonotypes share 	public clonotypes share fish 
+public 	public database 
+public database 	public database accession 
+public database accession 	public database accession number 
+public 	global public 
+global public 	global public health 
+global public health 	global public health concern 
+alcohol 	alcohol consumption 
+alcohol consumption 	excessive alcohol consumption 
+alcohol 	alcohol exposure 
+alcohol exposure 	chronic alcohol exposure 
+alcohol 	chronic alcohol 
+chronic alcohol 	chronic alcohol consumption 
+chronic alcohol consumption 	chronic alcohol consumption primary 
+alcohol 	dehydrate alcohol 
+dehydrate alcohol 	dehydrate alcohol embed 
+dehydrate alcohol embed 	dehydrate alcohol embed paraffin 
+alcohol 	alcohol ethanol 
+alcohol ethanol 	alcohol ethanol propanol 
+alcohol ethanol propanol 	alcohol ethanol propanol isopropanol 
+sexual 	sexual transmission 
+sexual transmission 	sexual transmission hcv 
+sexual transmission hcv 	involve sexual transmission hcv 
+sexual 	sexual dimorphism 
+sexual dimorphism 	sexual dimorphism immune 
+sexual dimorphism immune 	sexual dimorphism immune response 
+sexual 	sexual stage 
+sexual stage 	sexual stage antigen 
+sexual stage antigen 	sexual stage antigen subject 
+sexual 	sexual hormone 
+sexual hormone 	level sexual hormone 
+level sexual hormone 	low level sexual hormone 
+sexual 	response sexual 
+response sexual 	response sexual stage 
+response sexual stage 	immune response sexual stage 
+medication 	immunosuppressive medication 
+immunosuppressive medication 	use immunosuppressive medication 
+medication 	medication use 
+medication use 	current medication use 
+medication 	use medication 
+use medication 	use medication know 
+use medication know 	antibiotic use medication know 
+medication 	medication patient 
+medication patient 	immunosuppressive medication patient 
+medication 	medication treat 
+medication treat 	medication treat chronic 
+medication treat chronic 	prescribe medication treat chronic 
+compute 	compute tomography 
+compute tomography 	compute tomography ct 
+compute tomography ct 	compute tomography ct scan 
+compute 	statistical compute 
+statistical compute 	foundation statistical compute 
+compute 	value compute 
+value compute 	value compute linear 
+value compute linear 	value compute linear regression 
+compute 	score compute 
+score compute 	signature score compute 
+signature score compute 	https signature score compute 
+compute 	distance compute 
+distance compute 	evolutionary distance compute 
+solvent 	solvent control 
+solvent control 	dmso solvent control 
+solvent 	organic solvent 
+organic solvent 	residual organic solvent 
+solvent 	gradient solvent 
+gradient solvent 	gradient solvent min 
+gradient solvent min 	gradient solvent min gradient 
+solvent 	solvent min 
+solvent min 	gradient solvent min 
+solvent 	dmso solvent 
+dmso solvent 	dmso solvent control 
+dmso solvent control 	plag dmso solvent control 
+equation 	follow equation 
+follow equation 	calculate follow equation 
+calculate follow equation 	calculate follow equation equation 
+equation 	differential equation 
+differential equation 	ordinary differential equation 
+equation 	model equation 
+model equation 	dynamic model equation 
+equation 	equation model 
+equation model 	differential equation model 
+differential equation model 	differential equation model model 
+equation 	calculate equation 
+calculate equation 	sample calculate equation 
+experience 	patient experience 
+patient experience 	patient experience relapse 
+patient experience relapse 	patient experience relapse year 
+experience 	antigen experience 
+antigen experience 	antigen experience cell 
+antigen experience cell 	proliferation antigen experience cell 
+experience 	clinical experience 
+clinical experience 	base clinical experience 
+experience 	cell experience 
+cell experience 	cell experience clonal 
+cell experience clonal 	cell experience clonal expansion 
+experience 	mouse experience 
+mouse experience 	mouse experience significant 
+mouse experience significant 	untreated mouse experience significant 
+law 	protection law 
+protection law 	animal protection law 
+law 	law animal 
+law animal 	law animal protection 
+law animal protection 	german law animal protection 
+law 	federal law 
+federal law 	brazilian federal law 
+brazilian federal law 	accordance brazilian federal law 
+law 	national law 
+national law 	brazilian national law 
+law 	law approve 
+law approve 	law approve animal 
+law approve animal 	protection law approve animal 
+sensory 	sensory neuron 
+sensory neuron 	drg sensory neuron 
+drg sensory neuron 	drg sensory neuron neuron 
+sensory 	drg sensory 
+drg sensory 	drg sensory neuron 
+drg sensory neuron 	ganglion drg sensory neuron 
+sensory 	sensory nerve 
+sensory nerve 	sensory nerve ending 
+sensory nerve ending 	enter sensory nerve ending 
+sensory 	sensory motor 
+sensory motor 	sensory motor neuron 
+sensory motor neuron 	spinal sensory motor neuron 
+sensory 	sensory epithelium 
+sensory epithelium 	cochlear sensory epithelium 
+metal 	metal ion 
+metal ion 	metal ion affinity 
+metal ion affinity 	metal ion affinity chromatography 
+metal 	heavy metal 
+heavy metal 	heavy metal isotope 
+heavy metal isotope 	stable heavy metal isotope 
+metal 	metal affinity 
+metal affinity 	metal affinity chromatography 
+metal affinity chromatography 	immobilize metal affinity chromatography 
+metal 	metal isotope 
+metal isotope 	heavy metal isotope 
+metal 	metal nanoparticles 
+metal nanoparticles 	metal nanoparticles metal 
+metal nanoparticles metal 	release metal nanoparticles metal 
+intake 	food intake 
+food intake 	weight food intake 
+intake 	dietary intake 
+dietary intake 	change dietary intake 
+intake 	energy intake 
+energy intake 	reduce energy intake 
+intake 	high intake 
+high intake 	high intake lipid 
+high intake lipid 	high intake lipid cholesterol 
+intake 	intake increase 
+intake increase 	dietary intake increase 
+surgery 	clp surgery 
+clp surgery 	day clp surgery 
+surgery 	sham surgery 
+sham surgery 	clp sham surgery 
+surgery 	day surgery 
+day surgery 	day surgery day 
+day surgery day 	take day surgery day 
+surgery 	surgery patient 
+surgery patient 	surgery patient receive 
+surgery patient receive 	primary surgery patient receive 
+surgery 	surgery mouse 
+surgery mouse 	clp surgery mouse 
+clp surgery mouse 	clp surgery mouse mouse 
+pain 	neuropathic pain 
+neuropathic pain 	development neuropathic pain 
+development neuropathic pain 	development neuropathic pain pain 
+pain 	abdominal pain 
+abdominal pain 	abdominal pain diarrhea 
+abdominal pain diarrhea 	characterize abdominal pain diarrhea 
+pain 	chronic pain 
+chronic pain 	treat chronic pain 
+pain 	inflammatory pain 
+inflammatory pain 	chronic inflammatory pain 
+pain 	joint pain 
+joint pain 	muscle joint pain 
+neural 	neural network 
+neural network 	artificial neural network 
+neural 	neural cell 
+neural cell 	neural cell adhesion 
+neural cell adhesion 	neural cell adhesion molecule 
+neural 	neural stem 
+neural stem 	neural stem cell 
+neural stem cell 	human neural stem cell 
+neural 	neural tissue 
+neural tissue 	neural tissue dissociation 
+neural tissue dissociation 	neural tissue dissociation kit 
+neural 	neural progenitor 
+neural progenitor 	neural progenitor cell 
+neural progenitor cell 	human neural progenitor cell 
+train 	train immunity 
+train immunity 	induction train immunity 
+train 	train innate 
+train innate 	train innate immunity 
+train innate immunity 	mechanism train innate immunity 
+train 	induction train 
+induction train 	induction train immunity 
+induction train immunity 	induction train immunity monocyte 
+train 	model train 
+model train 	model train immunity 
+model train immunity 	vitro model train immunity 
+train 	induce train 
+induce train 	induce train immunity 
+induce train immunity 	induce train immunity monocyte 
+theoretical 	theoretical model 
+theoretical model 	theoretical model explain 
+theoretical model explain 	clearance theoretical model explain 
+theoretical 	theoretical basis 
+theoretical basis 	provide theoretical basis 
+theoretical 	theoretical framework 
+theoretical framework 	theoretical framework model 
+theoretical framework model 	update theoretical framework model 
+theoretical 	provide theoretical 
+provide theoretical 	provide theoretical basis 
+provide theoretical basis 	study provide theoretical basis 
+theoretical 	theoretical value 
+theoretical value 	theoretical value calculate 
+theoretical value calculate 	match theoretical value calculate 
+quality 	quality control 
+quality control 	quality control qc 
+quality control qc 	stringent quality control qc 
+quality 	quality life 
+quality life 	improve quality life 
+improve quality life 	improve quality life life 
+quality 	high quality 
+high quality 	high quality rna 
+high quality rna 	set high quality rna 
+quality 	quality quantity 
+quality quantity 	rna quality quantity 
+quality 	improve quality 
+improve quality 	improve quality life 
+improve quality life 	improve quality life patient 
+abdominal 	abdominal pain 
+abdominal pain 	abdominal pain diarrhea 
+abdominal pain diarrhea 	characterize abdominal pain diarrhea 
+abdominal 	abdominal cavity 
+abdominal cavity 	abdominal cavity mouse 
+abdominal cavity mouse 	inject abdominal cavity mouse 
+abdominal 	abdominal aorta 
+abdominal aorta 	collect abdominal aorta 
+abdominal 	abdominal skin 
+abdominal skin 	abdominal skin foreskin 
+abdominal skin foreskin 	discard abdominal skin foreskin 
+abdominal 	abdominal surgery 
+abdominal surgery 	patient abdominal surgery 
+city 	foster city 
+foster city 	biosystems foster city 
+city 	city usa 
+city usa 	foster city usa 
+city 	redwood city 
+redwood city 	qiagen redwood city 
+city 	city university 
+city university 	yokohama city university 
+city 	city follow 
+city follow 	foster city follow 
+foster city follow 	biosystems foster city follow 
+coverage 	vaccination coverage 
+vaccination coverage 	high vaccination coverage 
+coverage 	vaccine coverage 
+vaccine coverage 	high vaccine coverage 
+coverage 	population coverage 
+population coverage 	population coverage tool 
+population coverage tool 	population coverage tool calculate 
+coverage 	sequence coverage 
+sequence coverage 	sequence coverage bias 
+sequence coverage bias 	design sequence coverage bias 
+coverage 	high coverage 
+high coverage 	country high coverage 
+spatial 	spatial temporal 
+spatial temporal 	spatial temporal regulation 
+spatial temporal regulation 	spatial temporal regulation ptps 
+spatial 	temporal spatial 
+temporal spatial 	temporal spatial regulation 
+temporal spatial regulation 	area temporal spatial regulation 
+spatial 	spatial distribution 
+spatial distribution 	spatial distribution immune 
+spatial distribution immune 	spatial distribution immune cell 
+spatial 	spatial organization 
+spatial organization 	spatial organization mc 
+spatial organization mc 	spatial organization mc pixel 
+spatial 	spatial memory 
+spatial memory 	spatial memory impairment 
+spatial memory impairment 	result spatial memory impairment 
+orientation 	reverse orientation 
+reverse orientation 	gene reverse orientation 
+orientation 	orientation gene 
+orientation gene 	transcriptional orientation gene 
+orientation 	different orientation 
+different orientation 	different orientation domain 
+different orientation domain 	determines different orientation domain 
+orientation 	orientation ctcf 
+orientation ctcf 	orientation ctcf sit 
+orientation ctcf sit 	analysis orientation ctcf sit 
+orientation 	gene orientation 
+gene orientation 	gene orientation share 
+gene orientation share 	igkv gene orientation share 
+theory 	support theory 
+support theory 	evidence support theory 
+theory 	theory suggest 
+theory suggest 	current theory suggest 
+theory 	theory propose 
+theory propose 	theory propose explain 
+theory propose explain 	elucidated theory propose explain 
+theory 	hypothesis theory 
+hypothesis theory 	hypothesis theory article 
+hypothesis theory article 	hypothesis theory article al 
+theory 	disease theory 
+disease theory 	support disease theory 
+admission 	hospital admission 
+hospital admission 	hospital admission patient 
+hospital admission patient 	cause hospital admission patient 
+admission 	icu admission 
+icu admission 	require icu admission 
+admission 	admission patient 
+admission patient 	hospital admission patient 
+admission 	day admission 
+day admission 	day admission icu 
+day admission icu 	blood day admission icu 
+admission 	time admission 
+time admission 	perform time admission 
+collaboration 	collaboration author 
+collaboration author 	affiliation collaboration author 
+collaboration 	affiliation collaboration 
+affiliation collaboration 	affiliation collaboration author 
+affiliation collaboration author 	share affiliation collaboration author 
+collaboration 	cell collaboration 
+cell collaboration 	cell cell collaboration 
+collaboration 	collaboration cell 
+collaboration cell 	involve collaboration cell 
+involve collaboration cell 	infection involve collaboration cell 
+collaboration 	research collaboration 
+research collaboration 	fe research collaboration 
+fe research collaboration 	manuscript fe research collaboration 
+care 	care use 
+care use 	animal care use 
+care 	animal care 
+animal care 	animal care use 
+animal care use 	animal care use committee 
+care 	guide care 
+guide care 	guide care use 
+guide care use 	guide care use laboratory 
+care 	health care 
+health care 	health care system 
+health care system 	public health care system 
+care 	care committee 
+care committee 	animal care committee 
+artery 	coronary artery 
+coronary artery 	coronary artery disease 
+coronary artery disease 	coronary artery disease cad 
+artery 	artery disease 
+artery disease 	coronary artery disease 
+artery 	pulmonary artery 
+pulmonary artery 	pulmonary artery pressure 
+pulmonary artery pressure 	increase pulmonary artery pressure 
+artery 	spiral artery 
+spiral artery 	spiral artery remodel 
+spiral artery remodel 	invasion spiral artery remodel 
+artery 	carotid artery 
+carotid artery 	common carotid artery 
+trajectory 	developmental trajectory 
+developmental trajectory 	different developmental trajectory 
+trajectory 	cell trajectory 
+cell trajectory 	immune cell trajectory 
+trajectory 	differentiation trajectory 
+differentiation trajectory 	heterogeneity differentiation trajectory 
+trajectory 	trajectory analysis 
+trajectory analysis 	cell trajectory analysis 
+trajectory 	trajectory immune 
+trajectory immune 	trajectory immune system 
+trajectory immune system 	shape trajectory immune system 
+sugar 	sugar moiety 
+sugar moiety 	sugar moiety present 
+sugar moiety present 	sugar moiety present surface 
+sugar 	sugar residue 
+sugar residue 	sugar residue attach 
+sugar residue attach 	arm sugar residue attach 
+sugar 	sugar structure 
+sugar structure 	disialylated sugar structure 
+sugar 	blood sugar 
+blood sugar 	blood sugar level 
+blood sugar level 	normal blood sugar level 
+sugar 	sugar chain 
+sugar chain 	neutral sugar chain 
+mri 	image mri 
+image mri 	resonance image mri 
+mri 	brain mri 
+brain mri 	brain mri show 
+brain mri show 	brain mri show small 
+mri 	mri scan 
+mri scan 	ct mri scan 
+mri 	mri show 
+mri show 	brain mri show 
+mri 	mri image 
+mri image 	mri image show 
+mri image show 	infection mri image show 
+simulate 	model simulate 
+model simulate 	rat model simulate 
+simulate 	simulate data 
+simulate data 	simulate data set 
+simulate data set 	experimental simulate data set 
+simulate 	simulate model 
+simulate model 	infection simulate model 
+infection simulate model 	infection simulate model model 
+simulate 	study simulate 
+study simulate 	et study simulate 
+et study simulate 	tigas et study simulate 
+simulate 	cell simulate 
+cell simulate 	mast cell simulate 
+mast cell simulate 	similar mast cell simulate 
+resonance 	magnetic resonance 
+magnetic resonance 	magnetic resonance image 
+magnetic resonance image 	magnetic resonance image mri 
+resonance 	plasmon resonance 
+plasmon resonance 	surface plasmon resonance 
+resonance 	resonance image 
+resonance image 	magnetic resonance image 
+resonance 	resonance spr 
+resonance spr 	plasmon resonance spr 
+resonance 	resonance energy 
+resonance energy 	resonance energy transfer 
+resonance energy transfer 	resonance energy transfer fret 
+examination 	histological examination 
+histological examination 	figure histological examination 
+examination 	physical examination 
+physical examination 	physical examination reveal 
+physical examination reveal 	admission physical examination reveal 
+examination 	histopathological examination 
+histopathological examination 	histopathological examination lung 
+histopathological examination lung 	histopathological examination lung tissue 
+examination 	clinical examination 
+clinical examination 	perform clinical examination 
+examination 	microscopic examination 
+microscopic examination 	microscopic examination blood 
+microscopic examination blood 	microscopic examination blood film 
+traditional 	traditional chinese 
+traditional chinese 	traditional chinese medicine 
+traditional chinese medicine 	university traditional chinese medicine 
+traditional 	compare traditional 
+compare traditional 	advantage compare traditional 
+traditional 	traditional risk 
+traditional risk 	traditional risk factor 
+traditional risk factor 	independent traditional risk factor 
+traditional 	traditional approach 
+traditional approach 	traditional approach base 
+traditional approach base 	legislation traditional approach base 
+traditional 	traditional vaccine 
+traditional vaccine 	alternative traditional vaccine 
+pump 	proton pump 
+proton pump 	proton pump inhibitor 
+proton pump inhibitor 	proton pump inhibitor omeprazole 
+pump 	osmotic pump 
+osmotic pump 	implant osmotic pump 
+pump 	pump inhibitor 
+pump inhibitor 	proton pump inhibitor 
+pump 	efflux pump 
+efflux pump 	drug efflux pump 
+pump 	syringe pump 
+syringe pump 	syringe pump harvard 
+syringe pump harvard 	syringe pump harvard apparatus 
+africa 	south africa 
+south africa 	town south africa 
+town south africa 	cape town south africa 
+africa 	africa asia 
+africa asia 	country africa asia 
+africa 	west africa 
+west africa 	study west africa 
+africa 	east africa 
+east africa 	east africa asia 
+east africa asia 	brazil east africa asia 
+africa 	asia africa 
+asia africa 	country asia africa 
+medicine 	school medicine 
+school medicine 	university school medicine 
+medicine 	precision medicine 
+precision medicine 	precision medicine approach 
+precision medicine approach 	precision medicine approach aim 
+medicine 	college medicine 
+college medicine 	university college medicine 
+medicine 	veterinary medicine 
+veterinary medicine 	faculty veterinary medicine 
+medicine 	medicine university 
+medicine university 	school medicine university 
+face 	challenge face 
+challenge face 	major challenge face 
+face 	face challenge 
+face challenge 	therapy face challenge 
+face 	cell face 
+cell face 	immune cell face 
+face 	patient face 
+patient face 	pid patient face 
+face 	face high 
+face high 	tissue face high 
+wave 	second wave 
+second wave 	second wave immune 
+second wave immune 	second wave immune signal 
+wave 	wave cell 
+wave cell 	wave cell development 
+wave cell development 	wave cell development induce 
+wave 	initial wave 
+initial wave 	initial wave immediate 
+initial wave immediate 	initial wave immediate early 
+wave 	early wave 
+early wave 	early wave high 
+early wave high 	early wave high avidity 
+wave 	expression wave 
+expression wave 	ndicp expression wave 
+ndicp expression wave 	serum ndicp expression wave 
+nutrition 	parenteral nutrition 
+parenteral nutrition 	total parenteral nutrition 
+nutrition 	enteral nutrition 
+enteral nutrition 	receive enteral nutrition 
+nutrition 	health nutrition 
+health nutrition 	innovation health nutrition 
+innovation health nutrition 	biomedical innovation health nutrition 
+nutrition 	nutrition immune 
+nutrition immune 	nutrition immune development 
+nutrition immune development 	host nutrition immune development 
+nutrition 	maternal nutrition 
+maternal nutrition 	effect maternal nutrition 
+configuration 	germline configuration 
+germline configuration 	segment germline configuration 
+configuration 	spatial configuration 
+spatial configuration 	different spatial configuration 
+configuration 	snp configuration 
+snp configuration 	donor snp configuration 
+configuration 	configuration figure 
+configuration figure 	configuration figure supplementary 
+configuration figure supplementary 	configuration figure supplementary material 
+configuration 	cell configuration 
+cell configuration 	change cell configuration 
+change cell configuration 	matrix change cell configuration 
+sensor 	dna sensor 
+dna sensor 	cytosolic dna sensor 
+sensor 	cytosolic sensor 
+cytosolic sensor 	cytosolic sensor recognize 
+cytosolic sensor recognize 	cytosolic sensor recognize viral 
+sensor 	rna sensor 
+rna sensor 	cytosolic rna sensor 
+sensor 	sensor protein 
+sensor protein 	sensor protein kinase 
+sensor protein kinase 	sensor protein kinase ampk 
+sensor 	immune sensor 
+immune sensor 	innate immune sensor 
+muscle 	smooth muscle 
+smooth muscle 	smooth muscle cell 
+smooth muscle cell 	vascular smooth muscle cell 
+muscle 	muscle cell 
+muscle cell 	smooth muscle cell 
+smooth muscle cell 	smooth muscle cell cell 
+muscle 	skeletal muscle 
+skeletal muscle 	heart skeletal muscle 
+muscle 	muscle tissue 
+muscle tissue 	skeletal muscle tissue 
+muscle 	muscle actin 
+muscle actin 	smooth muscle actin 
+international 	international guideline 
+international guideline 	national international guideline 
+international 	international society 
+international society 	international society cellular 
+international society cellular 	international society cellular therapy 
+international 	national international 
+national international 	national international guideline 
+national international guideline 	helsinki national international guideline 
+international 	accord international 
+accord international 	accord international guideline 
+accord international guideline 	diagnose accord international guideline 
+international 	international union 
+international union 	international union immunological 
+international union immunological 	international union immunological society 
+algorithm 	cluster algorithm 
+cluster algorithm 	unsupervised cluster algorithm 
+algorithm 	prediction algorithm 
+prediction algorithm 	prediction algorithm identify 
+prediction algorithm identify 	prediction algorithm identify potential 
+algorithm 	algorithm identify 
+algorithm identify 	algorithm identify potential 
+algorithm identify potential 	prediction algorithm identify potential 
+algorithm 	algorithm base 
+algorithm base 	publish algorithm base 
+algorithm 	algorithm predict 
+algorithm predict 	development algorithm predict 
+aortic 	aortic root 
+aortic root 	aortic root section 
+aortic root section 	aortic root section stain 
+aortic 	aortic sinus 
+aortic sinus 	section aortic sinus 
+aortic 	aortic arch 
+aortic arch 	aortic arch mouse 
+aortic arch mouse 	plaque aortic arch mouse 
+aortic 	aortic aneurysm 
+aortic aneurysm 	abdominal aortic aneurysm 
+aortic 	aortic valve 
+aortic valve 	mitral aortic valve 
+men 	men woman 
+men woman 	men woman age 
+men woman age 	men woman age year 
+men 	woman men 
+woman men 	woman men mean 
+woman men mean 	woman men mean age 
+men 	compare men 
+compare men 	woman compare men 
+woman compare men 	woman compare men men 
+men 	men sex 
+men sex 	men sex men 
+men sex men 	men sex men msm 
+men 	healthy men 
+healthy men 	healthy men woman 
+healthy men woman 	participant healthy men woman 
+external 	external environment 
+external environment 	interface external environment 
+external 	external stimulus 
+external stimulus 	response external stimulus 
+external 	response external 
+response external 	response external stimulus 
+response external stimulus 	regulation response external stimulus 
+external 	internal external 
+internal external 	internal external environment 
+internal external environment 	barrier internal external environment 
+external 	external factor 
+external factor 	internal external factor 
+cortisol 	cortisol level 
+cortisol level 	high cortisol level 
+cortisol 	cortisol dhea 
+cortisol dhea 	presence cortisol dhea 
+cortisol 	level cortisol 
+level cortisol 	baseline level cortisol 
+cortisol 	plasma cortisol 
+plasma cortisol 	plasma cortisol concentration 
+plasma cortisol concentration 	plasma cortisol concentration activity 
+cortisol 	cortisol concentration 
+cortisol concentration 	plasma cortisol concentration 
+mechanical 	mechanical ventilation 
+mechanical ventilation 	duration mechanical ventilation 
+mechanical 	mechanical disruption 
+mechanical disruption 	obtain mechanical disruption 
+mechanical 	mechanical force 
+mechanical force 	mechanical force generate 
+mechanical force generate 	establish mechanical force generate 
+mechanical 	mechanical stress 
+mechanical stress 	subject mechanical stress 
+mechanical 	mechanical property 
+mechanical property 	structure mechanical property 
+precision 	precision medicine 
+precision medicine 	precision medicine approach 
+precision medicine approach 	precision medicine approach aim 
+precision 	high precision 
+high precision 	high precision control 
+high precision control 	microenvironment high precision control 
+precision 	precision instrument 
+precision instrument 	world precision instrument 
+precision 	precision protein 
+precision protein 	precision protein standard 
+precision protein standard 	color precision protein standard 
+precision 	precision therapy 
+precision therapy 	precision therapy body 
+precision therapy body 	guide precision therapy body 
+ocular 	ocular surface 
+ocular surface 	ocular surface disease 
+ocular surface disease 	ocular surface disease skin 
+ocular 	ocular inflammation 
+ocular inflammation 	ocular inflammation suppress 
+ocular inflammation suppress 	ocular inflammation suppress uveitogenic 
+ocular 	ocular infection 
+ocular infection 	follow ocular infection 
+ocular 	ocular herpes 
+ocular herpes 	recurrent ocular herpes 
+ocular 	ocular disease 
+ocular disease 	ocular disease study 
+ocular disease study 	refractory ocular disease study 
+hair 	hair follicle 
+hair follicle 	cell hair follicle 
+hair 	hair cell 
+hair cell 	cochlear hair cell 
+cochlear hair cell 	cochlear hair cell cell 
+hair 	hair loss 
+hair loss 	patchy hair loss 
+hair 	cochlear hair 
+cochlear hair 	cochlear hair cell 
+cochlear hair cell 	express cochlear hair cell 
+hair 	hair growth 
+hair growth 	hair growth cycle 
+hair growth cycle 	cell hair growth cycle 
+woman 	pregnant woman 
+pregnant woman 	healthy pregnant woman 
+healthy pregnant woman 	healthy pregnant woman woman 
+woman 	men woman 
+men woman 	men woman age 
+men woman age 	men woman age year 
+woman 	healthy woman 
+healthy woman 	patient healthy woman 
+woman 	woman men 
+woman men 	woman men mean 
+woman men mean 	woman men mean age 
+woman 	compare woman 
+compare woman 	woman compare woman 
+neck 	head neck 
+head neck 	head neck cancer 
+head neck cancer 	head neck cancer patient 
+neck 	neck cancer 
+neck cancer 	head neck cancer 
+head neck cancer 	head neck cancer cancer 
+neck 	neck region 
+neck region 	head neck region 
+neck 	neck tumor 
+neck tumor 	head neck tumor 
+neck 	neck carcinoma 
+neck carcinoma 	head neck carcinoma 
+trait 	quantitative trait 
+quantitative trait 	quantitative trait locus 
+quantitative trait locus 	expression quantitative trait locus 
+trait 	trait locus 
+trait locus 	quantitative trait locus 
+trait 	glycan trait 
+glycan trait 	igg glycan trait 
+trait 	phenotypic trait 
+phenotypic trait 	phenotypic trait associate 
+phenotypic trait associate 	plausible phenotypic trait associate 
+trait 	genetic trait 
+genetic trait 	complex genetic trait 
+emission 	nm emission 
+nm emission 	excitation nm emission 
+emission 	excitation emission 
+excitation emission 	excitation emission wavelengths 
+excitation emission wavelengths 	excitation emission wavelengths nm 
+emission 	emission wavelength 
+emission wavelength 	nm emission wavelength 
+emission 	emission tomography 
+emission tomography 	positron emission tomography 
+emission 	positron emission 
+positron emission 	positron emission tomography 
+positron emission tomography 	positron emission tomography pet 
+shear 	shear stress 
+shear stress 	high shear stress 
+shear 	shear force 
+shear force 	shear force blood 
+shear force blood 	shear force blood flow 
+shear 	shear flow 
+shear flow 	shear flow adhesion 
+shear flow adhesion 	result shear flow adhesion 
+shear 	high shear 
+high shear 	high shear stress 
+high shear stress 	high shear stress condition 
+shear 	low shear 
+low shear 	low shear stress 
+low shear stress 	low shear stress regime 
+water 	drinking water 
+drinking water 	drinking water day 
+drinking water day 	ds drinking water day 
+water 	food water 
+food water 	access food water 
+water 	distilled water 
+distilled water 	wash distilled water 
+water 	water ad 
+water ad 	water ad libitum 
+water ad libitum 	food water ad libitum 
+water 	water day 
+water day 	drinking water day 
+drinking water day 	drinking water day day 
+travel 	receive travel 
+receive travel 	receive travel grant 
+receive travel grant 	receive travel grant scientific 
+travel 	cell travel 
+cell travel 	cell travel ln 
+cell travel ln 	dc cell travel ln 
+travel 	travel grant 
+travel grant 	receive travel grant 
+receive travel grant 	receive travel grant grant 
+travel 	travel support 
+travel support 	receive travel support 
+travel 	distance travel 
+distance travel 	total distance travel 
+access 	free access 
+free access 	free access food 
+free access food 	free access food water 
+access 	access food 
+access food 	access food water 
+access food water 	free access food water 
+access 	gain access 
+gain access 	cell gain access 
+access 	access water 
+access water 	free access water 
+access 	cell access 
+cell access 	cell access tumor 
+cell access tumor 	cell access tumor cell 
+medical 	medical university 
+medical university 	military medical university 
+medical 	medical center 
+medical center 	university medical center 
+medical 	university medical 
+university medical 	university medical center 
+university medical center 	leiden university medical center 
+medical 	medical research 
+medical research 	institute medical research 
+institute medical research 	institute medical research research 
+medical 	medical ethic 
+medical ethic 	medical ethic committee 
+medical ethic committee 	approve medical ethic committee 
+indicator 	prognostic indicator 
+prognostic indicator 	positive prognostic indicator 
+indicator 	indicator cell 
+indicator cell 	indicator cell death 
+indicator cell death 	dot indicator cell death 
+indicator 	indicator disease 
+indicator disease 	indicator disease progression 
+indicator disease progression 	expression indicator disease progression 
+indicator 	level indicator 
+level indicator 	mrna level indicator 
+indicator 	expression indicator 
+expression indicator 	expression indicator cell 
+expression indicator cell 	protein expression indicator cell 
+category 	functional category 
+functional category 	different functional category 
+category 	go category 
+go category 	go category relate 
+go category relate 	go category relate immune 
+category 	different category 
+different category 	classify different category 
+category 	category base 
+category base 	divide category base 
+category 	category figure 
+category figure 	control category figure 
+control category figure 	untreated control category figure 
+healthcare 	ge healthcare 
+ge healthcare 	ge healthcare life 
+ge healthcare life 	ge healthcare life science 
+healthcare 	healthcare life 
+healthcare life 	ge healthcare life 
+healthcare 	healthcare uk 
+healthcare uk 	ge healthcare uk 
+healthcare 	healthcare usa 
+healthcare usa 	ge healthcare usa 
+healthcare 	healthcare density 
+healthcare density 	ge healthcare density 
+video 	supplementary video 
+supplementary video 	figure supplementary video 
+video 	video supplementary 
+video supplementary 	video supplementary material 
+video supplementary material 	figure video supplementary material 
+video 	figure video 
+figure video 	figure video supplementary 
+figure video supplementary 	figure video supplementary material 
+video 	video presentation 
+video presentation 	video presentation supplementary 
+video presentation supplementary 	video presentation supplementary material 
+video 	video camera 
+video camera 	digital video camera 
+ring 	ring domain 
+ring domain 	ring domain domain 
+ring domain domain 	domain ring domain domain 
+ring 	ring finger 
+ring finger 	ring finger domain 
+ring finger domain 	ring finger domain molecule 
+ring 	ring structure 
+ring structure 	arrow ring structure 
+arrow ring structure 	white arrow ring structure 
+ring 	actin ring 
+actin ring 	actin ring formation 
+actin ring formation 	corroborate actin ring formation 
+ring 	form ring 
+form ring 	form ring structure 
+form ring structure 	pcrv form ring structure 
+regular 	regular interval 
+regular interval 	perform regular interval 
+regular 	regular drinking 
+regular drinking 	regular drinking water 
+regular drinking water 	regular drinking water day 
+regular 	receive regular 
+receive regular 	receive regular drinking 
+receive regular drinking 	receive regular drinking water 
+regular 	regular cell 
+regular cell 	cell regular cell 
+regular 	regular water 
+regular water 	day regular water 
+diffusion 	diffusion coefficient 
+diffusion coefficient 	rate diffusion coefficient 
+diffusion 	diffusion rate 
+diffusion rate 	distinct diffusion rate 
+diffusion 	chemokine diffusion 
+chemokine diffusion 	chemokine diffusion distance 
+chemokine diffusion distance 	related chemokine diffusion distance 
+diffusion 	rate diffusion 
+rate diffusion 	rate diffusion coefficient 
+rate diffusion coefficient 	phagocytosis rate diffusion coefficient 
+diffusion 	increase diffusion 
+increase diffusion 	increase diffusion coefficient 
+increase diffusion coefficient 	area increase diffusion coefficient 
+article 	review article 
+review article 	review article author 
+review article author 	review article author declare 
+article 	conclusion article 
+conclusion article 	support conclusion article 
+support conclusion article 	support conclusion article article 
+article 	original article 
+original article 	original article update 
+original article update 	way original article update 
+article 	article author 
+article author 	article author declare 
+article author declare 	article author declare research 
+article 	write article 
+write article 	write article author 
+write article author 	write article author declare 
+bed 	tumor bed 
+tumor bed 	cell tumor bed 
+bed 	vascular bed 
+vascular bed 	different vascular bed 
+bed 	wound bed 
+wound bed 	ab wound bed 
+bed 	capillary bed 
+capillary bed 	capillary bed lung 
+capillary bed lung 	small capillary bed lung 
+bed 	bed file 
+bed file 	bed file contain 
+bed file contain 	bed file contain transcript 
+supply 	blood supply 
+blood supply 	sanquin blood supply 
+supply 	energy supply 
+energy supply 	cellular energy supply 
+supply 	oxygen supply 
+oxygen supply 	nutrient oxygen supply 
+supply 	nutrient supply 
+nutrient supply 	oxygen nutrient supply 
+supply 	supply energy 
+supply energy 	optimize supply energy 
+nerve 	vagus nerve 
+vagus nerve 	vagus nerve stimulation 
+vagus nerve stimulation 	vagus nerve stimulation vns 
+nerve 	peripheral nerve 
+peripheral nerve 	peripheral nerve injury 
+peripheral nerve injury 	follow peripheral nerve injury 
+nerve 	optic nerve 
+optic nerve 	optic nerve head 
+optic nerve head 	optic nerve head retina 
+nerve 	nerve injury 
+nerve injury 	peripheral nerve injury 
+nerve 	nerve fiber 
+nerve fiber 	th nerve fiber 
+assessment 	clinical assessment 
+clinical assessment 	clinical assessment eae 
+clinical assessment eae 	clinical assessment eae perform 
+assessment 	assessment cell 
+assessment cell 	assessment cell proliferation 
+assessment cell proliferation 	assessment cell proliferation base 
+assessment 	risk assessment 
+risk assessment 	risk assessment tool 
+risk assessment tool 	useful risk assessment tool 
+assessment 	assessment perform 
+assessment perform 	histological assessment perform 
+assessment 	figure assessment 
+figure assessment 	supplementary figure assessment 
+pilot 	pilot study 
+pilot study 	pilot study show 
+pilot study show 	recent pilot study show 
+pilot 	pilot trial 
+pilot trial 	clinical pilot trial 
+pilot 	pilot experiment 
+pilot experiment 	determine pilot experiment 
+pilot 	result pilot 
+result pilot 	result pilot study 
+result pilot study 	result pilot study conduct 
+pilot 	small pilot 
+small pilot 	small pilot study 
+small pilot study 	test small pilot study 
+anesthesia 	isoflurane anesthesia 
+isoflurane anesthesia 	isoflurane anesthesia mouse 
+isoflurane anesthesia mouse 	total isoflurane anesthesia mouse 
+anesthesia 	general anesthesia 
+general anesthesia 	deep general anesthesia 
+anesthesia 	anesthesia isoflurane 
+anesthesia isoflurane 	general anesthesia isoflurane 
+anesthesia 	perform anesthesia 
+perform anesthesia 	surgery perform anesthesia 
+anesthesia 	deep anesthesia 
+deep anesthesia 	dislocation deep anesthesia 
+dislocation deep anesthesia 	cervical dislocation deep anesthesia 
+temporal 	spatial temporal 
+spatial temporal 	spatial temporal regulation 
+spatial temporal regulation 	spatial temporal regulation ptps 
+temporal 	temporal spatial 
+temporal spatial 	temporal spatial regulation 
+temporal spatial regulation 	area temporal spatial regulation 
+temporal 	temporal artery 
+temporal artery 	temporal artery biopsy 
+temporal artery biopsy 	temporal artery biopsy tabs 
+temporal 	temporal dynamic 
+temporal dynamic 	temporal dynamic cytokine 
+temporal dynamic cytokine 	temporal dynamic cytokine expression 
+temporal 	temporal expression 
+temporal expression 	temporal expression pattern 
+temporal expression pattern 	spatial temporal expression pattern 
+technique 	image technique 
+image technique 	molecular image technique 
+technique 	sequence technique 
+sequence technique 	generation sequence technique 
+technique 	standard technique 
+standard technique 	standard technique describe 
+standard technique describe 	virus standard technique describe 
+technique 	different technique 
+different technique 	study different technique 
+technique 	technique study 
+technique study 	new technique study 
+embryo 	zebrafish embryo 
+zebrafish embryo 	zebrafish embryo inject 
+zebrafish embryo inject 	egfp zebrafish embryo inject 
+embryo 	embryo implantation 
+embryo implantation 	embryo implantation placentation 
+embryo implantation placentation 	embryo implantation placentation hcg 
+embryo 	embryo transfer 
+embryo transfer 	measure embryo transfer 
+embryo 	chicken embryo 
+chicken embryo 	chicken embryo fibroblast 
+chicken embryo fibroblast 	chicken embryo fibroblast cefs 
+embryo 	embryo fibroblast 
+embryo fibroblast 	chicken embryo fibroblast 
+strength 	signal strength 
+signal strength 	tcr signal strength 
+strength 	strength study 
+strength study 	strength study include 
+strength study include 	strength study include large 
+strength 	strength tcr 
+strength tcr 	strength tcr signal 
+strength tcr signal 	regulate strength tcr signal 
+strength 	muscle strength 
+muscle strength 	increase muscle strength 
+strength 	strength signal 
+strength signal 	strength signal deliver 
+strength signal deliver 	strength signal deliver cell 
+modern 	modern medicine 
+modern medicine 	challenge modern medicine 
+modern 	modern human 
+modern human 	population modern human 
+modern 	modern lineage 
+modern lineage 	strain modern lineage 
+modern 	modern technology 
+modern technology 	use modern technology 
+modern 	modern vaccine 
+modern vaccine 	modern vaccine adjuvant 
+modern vaccine adjuvant 	synthetic modern vaccine adjuvant 
+substance 	foreign substance 
+foreign substance 	pathogen foreign substance 
+substance 	active substance 
+active substance 	active substance vaccine 
+active substance vaccine 	virus active substance vaccine 
+substance 	compound substance 
+compound substance 	ligand compound substance 
+substance 	antimicrobial substance 
+antimicrobial substance 	production antimicrobial substance 
+substance 	substance release 
+substance release 	chemotactic substance release 
+estimate 	estimate people 
+estimate people 	estimate people infected 
+estimate people infected 	estimate people infected people 
+estimate 	cell estimate 
+cell estimate 	percentage cell estimate 
+estimate 	parameter estimate 
+parameter estimate 	parameter estimate suggest 
+parameter estimate suggest 	min parameter estimate suggest 
+estimate 	model estimate 
+model estimate 	mathematical model estimate 
+estimate 	estimate cell 
+estimate cell 	estimate cell proliferation 
+estimate cell proliferation 	estimate cell proliferation report 
+behavioral 	behavioral change 
+behavioral change 	induce behavioral change 
+behavioral 	behavioral test 
+behavioral test 	behavioral test perform 
+behavioral test perform 	behavioral test perform min 
+behavioral 	behavioral deficit 
+behavioral deficit 	improve behavioral deficit 
+behavioral 	behavioral fever 
+behavioral fever 	express behavioral fever 
+behavioral 	cognitive behavioral 
+cognitive behavioral 	cognitive behavioral impairment 
+cognitive behavioral impairment 	few cognitive behavioral impairment 
+effectiveness 	vaccine effectiveness 
+vaccine effectiveness 	influenza vaccine effectiveness 
+effectiveness 	increase effectiveness 
+increase effectiveness 	target increase effectiveness 
+effectiveness 	improve effectiveness 
+improve effectiveness 	improve effectiveness treatment 
+improve effectiveness treatment 	contribute improve effectiveness treatment 
+effectiveness 	effectiveness treatment 
+effectiveness treatment 	improve effectiveness treatment 
+effectiveness 	effectiveness therapy 
+effectiveness therapy 	improve effectiveness therapy 
+sucrose 	sucrose gradient 
+sucrose gradient 	discontinuous sucrose gradient 
+sucrose 	sucrose mm 
+sucrose mm 	mm sucrose mm 
+sucrose 	sucrose solution 
+sucrose solution 	sucrose solution overnight 
+sucrose solution overnight 	dip sucrose solution overnight 
+sucrose 	sucrose pb 
+sucrose pb 	sucrose pb overnight 
+sucrose pb overnight 	pfa sucrose pb overnight 
+sucrose 	sucrose density 
+sucrose density 	sucrose density gradient 
+sucrose density gradient 	sucrose density gradient centrifugation 
+hypertension 	pulmonary hypertension 
+pulmonary hypertension 	pulmonary hypertension ph 
+pulmonary hypertension ph 	develop pulmonary hypertension ph 
+hypertension 	arterial hypertension 
+arterial hypertension 	pulmonary arterial hypertension 
+hypertension 	portal hypertension 
+portal hypertension 	fibrosis portal hypertension 
+hypertension 	hypertension diabetes 
+hypertension diabetes 	hypertension diabetes mellitus 
+hypertension diabetes mellitus 	disease hypertension diabetes mellitus 
+hypertension 	disease hypertension 
+disease hypertension 	cardiovascular disease hypertension 
+head 	head kidney 
+head kidney 	spleen head kidney 
+spleen head kidney 	spleen head kidney kidney 
+head 	head neck 
+head neck 	head neck cancer 
+head neck cancer 	head neck cancer patient 
+head 	head squamous 
+head squamous 	head squamous cell 
+head squamous cell 	head squamous cell carcinoma 
+head 	globular head 
+globular head 	globular head region 
+globular head region 	globular head region prepared 
+head 	arrow head 
+arrow head 	arrow head indicate 
+arrow head indicate 	line arrow head indicate 
+dorsal 	dorsal root 
+dorsal root 	dorsal root ganglion 
+dorsal root ganglion 	dorsal root ganglion drg 
+dorsal 	dorsal horn 
+dorsal horn 	dorsal horn spinal 
+dorsal horn spinal 	dorsal horn spinal cord 
+dorsal 	dorsal skin 
+dorsal skin 	dorsal skin mouse 
+dorsal skin mouse 	dorsal skin mouse remove 
+dorsal 	dorsal ventral 
+dorsal ventral 	split dorsal ventral 
+dorsal 	dorsal vessel 
+dorsal vessel 	expression dorsal vessel 
+expression dorsal vessel 	chemokine expression dorsal vessel 
+energy 	energy metabolism 
+energy metabolism 	cellular energy metabolism 
+energy 	free energy 
+free energy 	free energy surface 
+free energy surface 	broad free energy surface 
+energy 	energy source 
+energy source 	main energy source 
+energy 	energy production 
+energy production 	cellular energy production 
+energy 	cellular energy 
+cellular energy 	cellular energy metabolism 
+cellular energy metabolism 	role cellular energy metabolism 
+world 	world health 
+world health 	world health organization 
+world health organization 	accord world health organization 
+world 	world population 
+world population 	affect world population 
+world 	develop world 
+develop world 	disease develop world 
+world 	accord world 
+accord world 	accord world health 
+accord world health 	accord world health organization 
+world 	region world 
+region world 	different region world 
+researcher 	qualify researcher 
+qualify researcher 	reservation qualify researcher 
+researcher 	researcher study 
+researcher study 	qualify researcher study 
+researcher 	researcher animal 
+researcher animal 	qualify researcher animal 
+researcher 	study researcher 
+study researcher 	recent study researcher 
+researcher 	cell researcher 
+cell researcher 	cell researcher show 
+cell researcher show 	epithelial cell researcher show 
+discussion 	contribute discussion 
+contribute discussion 	contribute discussion author 
+contribute discussion author 	manuscript contribute discussion author 
+discussion 	discussion author 
+discussion author 	discussion author declare 
+discussion author declare 	discussion author declare research 
+discussion 	discussion result 
+discussion result 	contribute discussion result 
+discussion 	discussion manuscript 
+discussion manuscript 	discussion manuscript author 
+discussion manuscript author 	discussion manuscript author declare 
+discussion 	discussion review 
+discussion review 	discussion review manuscript 
+discussion review manuscript 	contribute discussion review manuscript 
+fixation 	fixation permeabilization 
+fixation permeabilization 	fixation permeabilization buffer 
+fixation permeabilization buffer 	intracellular fixation permeabilization buffer 
+fixation 	fixation buffer 
+fixation buffer 	ic fixation buffer 
+fixation 	follow fixation 
+follow fixation 	follow fixation permeabilization 
+follow fixation permeabilization 	follow fixation permeabilization cell 
+fixation 	fixation cell 
+fixation cell 	fixation cell stain 
+fixation cell stain 	min fixation cell stain 
+fixation 	complement fixation 
+complement fixation 	role complement fixation 
+improvement 	significant improvement 
+significant improvement 	show significant improvement 
+improvement 	clinical improvement 
+clinical improvement 	clinical improvement patient 
+clinical improvement patient 	observe clinical improvement patient 
+improvement 	improvement clinical 
+improvement clinical 	improvement clinical outcome 
+improvement clinical outcome 	significant improvement clinical outcome 
+improvement 	improvement survival 
+improvement survival 	significant improvement survival 
+significant improvement survival 	significant improvement survival survival 
+improvement 	show improvement 
+show improvement 	patient show improvement 
+funding 	funding acquisition 
+funding acquisition 	funding acquisition author 
+funding acquisition author 	funding acquisition author declare 
+funding 	obtain funding 
+obtain funding 	study obtain funding 
+funding 	research funding 
+research funding 	receive research funding 
+funding 	funding author 
+funding author 	funding author declare 
+funding author declare 	funding author declare research 
+funding 	receive funding 
+receive funding 	study receive funding 
+study receive funding 	declare study receive funding 
+department 	department health 
+department health 	department health human 
+department health human 	department health human service 
+department 	department pathology 
+department pathology 	department pathology university 
+department pathology university 	archive department pathology university 
+department 	recruit department 
+recruit department 	patient recruit department 
+department 	obtain department 
+obtain department 	patient obtain department 
+department 	department immunology 
+department immunology 	department immunology biotechnology 
+department immunology biotechnology 	department immunology biotechnology university 
+monitoring 	immune monitoring 
+immune monitoring 	immune monitoring study 
+immune monitoring study 	future immune monitoring study 
+monitoring 	monitoring patient 
+monitoring patient 	immune monitoring patient 
+monitoring 	clinical monitoring 
+clinical monitoring 	vaccination clinical monitoring 
+vaccination clinical monitoring 	responsible vaccination clinical monitoring 
+monitoring 	monitoring disease 
+monitoring disease 	monitoring disease activity 
+monitoring disease activity 	sensitive monitoring disease activity 
+monitoring 	monitoring study 
+monitoring study 	immune monitoring study 
+maximum 	minimum maximum 
+minimum maximum 	minimum maximum value 
+minimum maximum value 	represent minimum maximum value 
+maximum 	reach maximum 
+reach maximum 	reach maximum level 
+reach maximum level 	reach maximum level day 
+maximum 	maximum value 
+maximum value 	minimum maximum value 
+maximum 	maximum likelihood 
+maximum likelihood 	maximum likelihood method 
+maximum likelihood method 	maximum likelihood method base 
+maximum 	maximum level 
+maximum level 	reach maximum level 
+text 	see text 
+see text 	see text detail 
+see text detail 	see text detail abbreviation 
+text 	text detail 
+text detail 	see text detail 
+text 	main text 
+main text 	see main text 
+text 	text footnote 
+text footnote 	see text footnote 
+text 	text figure 
+text figure 	text figure author 
+text figure author 	edit text figure author 
+finger 	zinc finger 
+zinc finger 	leukemia zinc finger 
+finger 	finger protein 
+finger protein 	zinc finger protein 
+finger 	ring finger 
+ring finger 	ring finger domain 
+ring finger domain 	ring finger domain molecule 
+finger 	finger plzf 
+finger plzf 	zinc finger plzf 
+zinc finger plzf 	zinc finger plzf plzf 
+finger 	finger domain 
+finger domain 	zinc finger domain 
+zinc finger domain 	zinc finger domain domain 
+digital 	digital camera 
+digital camera 	digital camera olympus 
+digital camera olympus 	equip digital camera olympus 
+digital 	digital image 
+digital image 	digital image analysis 
+digital image analysis 	automate digital image analysis 
+digital 	digital pcr 
+digital pcr 	droplet digital pcr 
+digital 	microscope digital 
+microscope digital 	microscope digital camera 
+microscope digital camera 	microscope digital camera image 
+digital 	measure digital 
+measure digital 	measure digital caliper 
+measure digital caliper 	size measure digital caliper 
+skeletal 	skeletal muscle 
+skeletal muscle 	heart skeletal muscle 
+skeletal 	heart skeletal 
+heart skeletal 	heart skeletal muscle 
+heart skeletal muscle 	heart skeletal muscle tissue 
+skeletal 	tissue skeletal 
+tissue skeletal 	tissue skeletal muscle 
+tissue skeletal muscle 	adipose tissue skeletal muscle 
+skeletal 	skeletal system 
+skeletal system 	immune skeletal system 
+skeletal 	skeletal immune 
+skeletal immune 	skeletal immune system 
+skeletal immune system 	relationship skeletal immune system 
+thickness 	μm thickness 
+μm thickness 	section μm thickness 
+thickness 	ear thickness 
+ear thickness 	ear thickness measure 
+ear thickness measure 	ear thickness measure dial 
+thickness 	thickness measure 
+thickness measure 	ear thickness measure 
+thickness 	skin thickness 
+skin thickness 	reduce skin thickness 
+thickness 	thickness μm 
+thickness μm 	section thickness μm 
+methanol 	methanol min 
+methanol min 	fix methanol min 
+methanol 	fix methanol 
+fix methanol 	fix methanol min 
+fix methanol min 	cell fix methanol min 
+methanol 	cold methanol 
+cold methanol 	cold methanol min 
+cold methanol min 	cold methanol min cell 
+methanol 	permeabilized methanol 
+permeabilized methanol 	permeabilized methanol min 
+permeabilized methanol min 	permeabilized methanol min cell 
+methanol 	methanol stain 
+methanol stain 	fix methanol stain 
+scheme 	experimental scheme 
+experimental scheme 	experimental scheme show 
+experimental scheme show 	experimental scheme show bone 
+scheme 	gate scheme 
+gate scheme 	gate scheme identify 
+gate scheme identify 	gate scheme identify cell 
+scheme 	number scheme 
+number scheme 	imgt number scheme 
+scheme 	scheme show 
+scheme show 	scheme show figure 
+scheme show figure 	gate scheme show figure 
+scheme 	scheme figure 
+scheme figure 	gate scheme figure 
+rupture 	membrane rupture 
+membrane rupture 	plasma membrane rupture 
+rupture 	plaque rupture 
+plaque rupture 	atherosclerotic plaque rupture 
+rupture 	rupture membrane 
+rupture membrane 	premature rupture membrane 
+rupture 	rupture cell 
+rupture cell 	rupture cell membrane 
+rupture cell membrane 	follow rupture cell membrane 
+rupture 	rupture release 
+rupture release 	rupture release merozoite 
+rupture release merozoite 	rupture release merozoite invade 
+register 	trial register 
+trial register 	clinical trial register 
+register 	study register 
+study register 	study register registration 
+study register registration 	study register registration body 
+register 	patient register 
+patient register 	patient register knpidr 
+patient register knpidr 	patient register knpidr january 
+register 	register patient 
+register patient 	death register patient 
+register 	register clinical 
+register clinical 	register clinical trial 
+register clinical trial 	trial register clinical trial 
+specimen 	biopsy specimen 
+biopsy specimen 	skin biopsy specimen 
+specimen 	tissue specimen 
+tissue specimen 	tissue specimen obtain 
+tissue specimen obtain 	synovial tissue specimen obtain 
+specimen 	specimen obtain 
+specimen obtain 	specimen obtain patient 
+specimen obtain patient 	biopsy specimen obtain patient 
+specimen 	specimen collect 
+specimen collect 	blood specimen collect 
+specimen 	tumor specimen 
+tumor specimen 	match tumor specimen 
+hydrogen 	hydrogen bond 
+hydrogen bond 	form hydrogen bond 
+hydrogen 	hydrogen peroxide 
+hydrogen peroxide 	μm hydrogen peroxide 
+hydrogen 	form hydrogen 
+form hydrogen 	form hydrogen bond 
+form hydrogen bond 	position form hydrogen bond 
+hydrogen 	hydrogen min 
+hydrogen min 	hydrogen min section 
+hydrogen min section 	hydrogen min section incubate 
+hydrogen 	hydrogen atom 
+hydrogen atom 	involve hydrogen atom 
+involve hydrogen atom 	bond involve hydrogen atom 
+gas 	gas exchange 
+gas exchange 	impair gas exchange 
+gas 	gas infection 
+gas infection 	control gas infection 
+gas 	blood gas 
+blood gas 	blood gas analysis 
+blood gas analysis 	pressure blood gas analysis 
+gas 	isre gas 
+isre gas 	isre gas sit 
+isre gas sit 	bind isre gas sit 
+gas 	gas isre 
+gas isre 	gas isre nfκb 
+gas isre nfκb 	gas isre nfκb site 
+contraction 	contraction phase 
+contraction phase 	survive contraction phase 
+contraction 	muscle contraction 
+muscle contraction 	smooth muscle contraction 
+contraction 	cell contraction 
+cell contraction 	muscle cell contraction 
+muscle cell contraction 	smooth muscle cell contraction 
+contraction 	expansion contraction 
+expansion contraction 	expansion contraction memory 
+expansion contraction memory 	kinetics expansion contraction memory 
+contraction 	contraction cell 
+contraction cell 	expansion contraction cell 
+adjustment 	adjustment multiple 
+adjustment multiple 	adjustment multiple comparison 
+adjustment multiple comparison 	test adjustment multiple comparison 
+adjustment 	batch adjustment 
+batch adjustment 	batch adjustment approach 
+batch adjustment approach 	percentile batch adjustment approach 
+adjustment 	bonferroni adjustment 
+bonferroni adjustment 	anova bonferroni adjustment 
+adjustment 	adjustment age 
+adjustment age 	adjustment age sex 
+adjustment age sex 	change adjustment age sex 
+adjustment 	significant adjustment 
+significant adjustment 	remain significant adjustment 
+artificial 	artificial chromosome 
+artificial chromosome 	bacterial artificial chromosome 
+artificial 	bacterial artificial 
+bacterial artificial 	bacterial artificial chromosome 
+bacterial artificial chromosome 	bacterial artificial chromosome bac 
+artificial 	artificial cell 
+artificial cell 	killer artificial cell 
+artificial 	artificial neural 
+artificial neural 	artificial neural network 
+artificial neural network 	artificial neural network ann 
+artificial 	artificial membrane 
+artificial membrane 	contact artificial membrane 
+randomize 	randomize control 
+randomize control 	randomize control trial 
+randomize control trial 	randomize control trial patient 
+randomize 	randomize trial 
+randomize trial 	prospective randomize trial 
+randomize 	randomize controlled 
+randomize controlled 	randomize controlled trial 
+randomize controlled trial 	large randomize controlled trial 
+randomize 	randomize receive 
+randomize receive 	patient randomize receive 
+randomize 	randomize study 
+randomize study 	phase randomize study 
+coronary 	coronary artery 
+coronary artery 	coronary artery disease 
+coronary artery disease 	coronary artery disease cad 
+coronary 	acute coronary 
+acute coronary 	acute coronary syndrome 
+acute coronary syndrome 	patient acute coronary syndrome 
+coronary 	coronary syndrome 
+coronary syndrome 	acute coronary syndrome 
+coronary 	coronary heart 
+coronary heart 	coronary heart disease 
+coronary heart disease 	patient coronary heart disease 
+coronary 	patient coronary 
+patient coronary 	patient coronary artery 
+patient coronary artery 	patient coronary artery disease 
+communication 	intercellular communication 
+intercellular communication 	mediate intercellular communication 
+communication 	cell communication 
+cell communication 	cell cell communication 
+communication 	communication cell 
+communication cell 	mediate communication cell 
+communication 	cellular communication 
+cellular communication 	cellular communication cell 
+cellular communication cell 	role cellular communication cell 
+communication 	communication immune 
+communication immune 	communication immune cell 
+communication immune cell 	intercellular communication immune cell 
+literature 	report literature 
+report literature 	result report literature 
+literature 	literature search 
+literature search 	literature search write 
+literature search write 	literature search write manuscript 
+literature 	review literature 
+review literature 	review literature write 
+review literature write 	review literature write manuscript 
+literature 	current literature 
+current literature 	review current literature 
+literature 	literature review 
+literature review 	perform literature review 
+antioxidant 	antioxidant enzyme 
+antioxidant enzyme 	expression antioxidant enzyme 
+antioxidant 	antioxidant capacity 
+antioxidant capacity 	total antioxidant capacity 
+antioxidant 	antioxidant activity 
+antioxidant activity 	antioxidant activity mouse 
+antioxidant activity mouse 	antioxidant activity mouse n 
+antioxidant 	antioxidant defense 
+antioxidant defense 	antioxidant defense system 
+antioxidant defense system 	performance antioxidant defense system 
+antioxidant 	antioxidant response 
+antioxidant response 	antioxidant response element 
+antioxidant response element 	bind antioxidant response element 
+bias 	sex bias 
+sex bias 	sex bias sle 
+sex bias sle 	sex bias sle s 
+bias 	potential bias 
+potential bias 	avoid potential bias 
+bias 	bias cell 
+bias cell 	bias cell differentiation 
+bias cell differentiation 	bias cell differentiation profile 
+bias 	bias response 
+bias response 	bias response study 
+bias response study 	cytokine bias response study 
+bias 	cell bias 
+cell bias 	cell bias cell 
+cell bias cell 	nkt cell bias cell 
+confidence 	confidence interval 
+confidence interval 	confidence interval ci 
+confidence interval ci 	ratio confidence interval ci 
+confidence 	high confidence 
+high confidence 	identify high confidence 
+confidence 	ci confidence 
+ci confidence 	ci confidence interval 
+ci confidence interval 	ratio ci confidence interval 
+confidence 	represent confidence 
+represent confidence 	represent confidence interval 
+represent confidence interval 	bar represent confidence interval 
+confidence 	ratio confidence 
+ratio confidence 	ratio confidence interval 
+ratio confidence interval 	odds ratio confidence interval 
+regional 	regional lymph 
+regional lymph 	regional lymph node 
+regional lymph node 	cell regional lymph node 
+regional 	approve regional 
+approve regional 	study approve regional 
+regional 	regional ethical 
+regional ethical 	regional ethical review 
+regional ethical review 	regional ethical review board 
+regional 	regional ethic 
+regional ethic 	regional ethic committee 
+regional ethic committee 	regional ethic committee stockholm 
+regional 	regional difference 
+regional difference 	regional difference expression 
+regional difference expression 	regional difference expression gene 
+integration 	integration site 
+integration site 	proviral integration site 
+integration 	integration signal 
+integration signal 	integration signal derive 
+integration signal derive 	integration signal derive numerous 
+integration 	signal integration 
+signal integration 	signal integration time 
+signal integration time 	bli signal integration time 
+integration 	data integration 
+data integration 	omics data integration 
+integration 	integration time 
+integration time 	signal integration time 
+corneal 	corneal allograft 
+corneal allograft 	corneal allograft rejection 
+corneal allograft rejection 	prevent corneal allograft rejection 
+corneal 	corneal epithelial 
+corneal epithelial 	corneal epithelial cell 
+corneal epithelial cell 	human corneal epithelial cell 
+corneal 	human corneal 
+human corneal 	human corneal epithelial 
+human corneal epithelial 	human corneal epithelial cell 
+corneal 	corneal transplantation 
+corneal transplantation 	model corneal transplantation 
+corneal 	corneal infection 
+corneal infection 	corneal infection mouse 
+corneal infection mouse 	aeruginosa corneal infection mouse 
+mellitus 	diabetes mellitus 
+diabetes mellitus 	type diabetes mellitus 
+mellitus 	mellitus type 
+mellitus type 	diabetes mellitus type 
+diabetes mellitus type 	diabetes mellitus type type 
+mellitus 	mellitus dm 
+mellitus dm 	diabetes mellitus dm 
+mellitus 	mellitus patient 
+mellitus patient 	diabetes mellitus patient 
+diabetes mellitus patient 	diabetes mellitus patient patient 
+mellitus 	mellitus hypertension 
+mellitus hypertension 	diabetes mellitus hypertension 
+compound 	compound target 
+compound target 	compound target crp 
+compound target crp 	compound target crp goal 
+compound 	effect compound 
+effect compound 	beneficial effect compound 
+compound 	compound inhibit 
+compound inhibit 	natural compound inhibit 
+compound 	compound show 
+compound show 	compound show potent 
+compound show potent 	activation compound show potent 
+compound 	compound figure 
+compound figure 	compound figure supplementary 
+compound figure supplementary 	compound figure supplementary material 
+issue 	address issue 
+address issue 	study address issue 
+issue 	health issue 
+health issue 	public health issue 
+issue 	safety issue 
+safety issue 	potential safety issue 
+issue 	major issue 
+major issue 	remain major issue 
+issue 	issue address 
+issue address 	major issue address 
+machine 	machine learn 
+machine learn 	machine learn method 
+machine learn method 	model machine learn method 
+machine 	machine learning 
+machine learning 	machine learning approach 
+machine learning approach 	framework machine learning approach 
+machine 	vector machine 
+vector machine 	support vector machine 
+machine 	machine perfusion 
+machine perfusion 	normothermic machine perfusion 
+machine 	pcr machine 
+pcr machine 	pcr machine apply 
+pcr machine apply 	pcr machine apply biosystems 
+actual 	actual number 
+actual number 	indicate actual number 
+actual 	actual role 
+actual role 	propose actual role 
+actual 	actual cell 
+actual cell 	actual cell number 
+actual cell number 	number actual cell number 
+actual 	actual value 
+actual value 	text actual value 
+text actual value 	see text actual value 
+actual 	cell actual 
+cell actual 	plasma cell actual 
+outcomes 	disease outcomes 
+disease outcomes 	different disease outcomes 
+outcomes 	pregnancy outcomes 
+pregnancy outcomes 	adverse pregnancy outcomes 
+outcomes 	improve outcomes 
+improve outcomes 	improve outcomes patient 
+improve outcomes patient 	improve outcomes patient population 
+outcomes 	outcomes patient 
+outcomes patient 	improve outcomes patient 
+outcomes 	treatment outcomes 
+treatment outcomes 	treatment outcomes study 
+treatment outcomes study 	predictor treatment outcomes study 
+behavior 	cell behavior 
+cell behavior 	immune cell behavior 
+behavior 	behavior cell 
+behavior cell 	migratory behavior cell 
+behavior 	behavior mouse 
+behavior mouse 	behavior mouse model 
+behavior mouse model 	lc behavior mouse model 
+behavior 	different behavior 
+different behavior 	show different behavior 
+behavior 	behavior observe 
+behavior observe 	similar behavior observe 
+thermal 	thermal cycler 
+thermal cycler 	perform thermal cycler 
+thermal 	thermal stability 
+thermal stability 	high thermal stability 
+thermal 	thermal cycling 
+thermal cycling 	thermal cycling condition 
+thermal cycling condition 	thermal cycling condition follow 
+thermal 	mechanical thermal 
+mechanical thermal 	mechanical thermal stimulus 
+mechanical thermal stimulus 	hypersensitivity mechanical thermal stimulus 
+thermal 	thermal cycle 
+thermal cycle 	thermal cycle condition 
+thermal cycle condition 	follow thermal cycle condition 
+analytical 	analytical method 
+analytical method 	different analytical method 
+analytical 	analytical column 
+analytical column 	analytical column μm 
+analytical column μm 	analytical column μm mm 
+analytical 	analytical approach 
+analytical approach 	new analytical approach 
+analytical 	analytical tool 
+analytical tool 	provide analytical tool 
+analytical 	analytical solution 
+analytical solution 	analytical solution derive 
+analytical solution derive 	model analytical solution derive 
+scope 	scope review 
+scope review 	scope review focus 
+scope review focus 	disease scope review focus 
+scope 	scope study 
+scope study 	cell scope study 
+scope 	scope present 
+scope present 	scope present study 
+scope present study 	scope present study focus 
+scope 	scope manuscript 
+scope manuscript 	cell scope manuscript 
+scope 	scope current 
+scope current 	scope current study 
+scope current study 	investigation scope current study 
+outbreak 	recent outbreak 
+recent outbreak 	recent outbreak ebola 
+recent outbreak ebola 	question recent outbreak ebola 
+outbreak 	disease outbreak 
+disease outbreak 	infectious disease outbreak 
+outbreak 	pandemic outbreak 
+pandemic outbreak 	cause pandemic outbreak 
+outbreak 	virus outbreak 
+virus outbreak 	ebola virus outbreak 
+outbreak 	outbreak occur 
+outbreak occur 	outbreak occur yap 
+outbreak occur yap 	outbreak occur yap island 
+fitness 	fitness cost 
+fitness cost 	maximum fitness cost 
+fitness 	metabolic fitness 
+metabolic fitness 	metabolic fitness immune 
+metabolic fitness immune 	metabolic fitness immune cell 
+fitness 	host fitness 
+host fitness 	maintain host fitness 
+fitness 	viral fitness 
+viral fitness 	loss viral fitness 
+fitness 	parasite fitness 
+parasite fitness 	reduce parasite fitness 
+disability 	disability status 
+disability status 	disability status scale 
+disability status scale 	expand disability status scale 
+disability 	expand disability 
+expand disability 	expand disability status 
+expand disability status 	expand disability status scale 
+disability 	disability progression 
+disability progression 	risk disability progression 
+disability 	neurological disability 
+neurological disability 	cause neurological disability 
+disability 	disability index 
+disability index 	low disability index 
+extension 	final extension 
+final extension 	final extension min 
+final extension min 	cycle final extension min 
+extension 	extension min 
+extension min 	final extension min 
+final extension min 	final extension min min 
+extension 	anneal extension 
+anneal extension 	denaturation anneal extension 
+extension 	extension pcr 
+extension pcr 	overlap extension pcr 
+extension 	extension step 
+extension step 	final extension step 
+urinary 	urinary tract 
+urinary tract 	urinary tract infection 
+urinary tract infection 	urinary tract infection uti 
+urinary 	urinary protein 
+urinary protein 	major urinary protein 
+urinary 	urinary properdin 
+urinary properdin 	urinary properdin urinary 
+urinary properdin urinary 	association urinary properdin urinary 
+urinary 	urinary cell 
+urinary cell 	urinary cell show 
+urinary cell show 	majority urinary cell show 
+urinary 	urinary microbiota 
+urinary microbiota 	dysbiosis urinary microbiota 
+arterial 	arterial wall 
+arterial wall 	cell arterial wall 
+arterial 	arterial hypertension 
+arterial hypertension 	pulmonary arterial hypertension 
+arterial 	pulmonary arterial 
+pulmonary arterial 	pulmonary arterial hypertension 
+pulmonary arterial hypertension 	pulmonary arterial hypertension pah 
+arterial 	arterial stiffness 
+arterial stiffness 	increase arterial stiffness 
+arterial 	arterial thrombosis 
+arterial thrombosis 	venous arterial thrombosis 
+biosynthesis 	acid biosynthesis 
+acid biosynthesis 	fatty acid biosynthesis 
+biosynthesis 	cholesterol biosynthesis 
+cholesterol biosynthesis 	pathway cholesterol biosynthesis 
+pathway cholesterol biosynthesis 	mevalonate pathway cholesterol biosynthesis 
+biosynthesis 	biosynthesis pathway 
+biosynthesis pathway 	acid biosynthesis pathway 
+biosynthesis 	lipid biosynthesis 
+lipid biosynthesis 	involve lipid biosynthesis 
+biosynthesis 	involve biosynthesis 
+involve biosynthesis 	gene involve biosynthesis 
+construction 	library construction 
+library construction 	library construction sequence 
+library construction sequence 	amplification library construction sequence 
+construction 	plasmid construction 
+plasmid construction 	primer plasmid construction 
+construction 	construction expression 
+construction expression 	construction expression purification 
+construction expression purification 	responsible construction expression purification 
+construction 	figure construction 
+figure construction 	plasmid figure construction 
+construction 	model construction 
+model construction 	animal model construction 
+illness 	critical illness 
+critical illness 	chronic critical illness 
+illness 	febrile illness 
+febrile illness 	patient febrile illness 
+illness 	severe illness 
+severe illness 	severe illness death 
+severe illness death 	case severe illness death 
+illness 	respiratory illness 
+respiratory illness 	cause respiratory illness 
+illness 	chronic illness 
+chronic illness 	acute chronic illness 
+wavelength 	wavelength nm 
+wavelength nm 	excitation wavelength nm 
+excitation wavelength nm 	excitation wavelength nm nm 
+wavelength 	excitation wavelength 
+excitation wavelength 	excitation wavelength nm 
+excitation wavelength nm 	excitation wavelength nm emission 
+wavelength 	emission wavelength 
+emission wavelength 	nm emission wavelength 
+wavelength 	nm wavelength 
+nm wavelength 	measure nm wavelength 
+wavelength 	reference wavelength 
+reference wavelength 	nm reference wavelength 
+calculation 	calculation perform 
+calculation perform 	statistical calculation perform 
+calculation 	statistical calculation 
+statistical calculation 	statistical calculation perform 
+statistical calculation perform 	statistical calculation perform graphpad 
+calculation 	calculation base 
+calculation base 	calculation base total 
+calculation base total 	cytotoxicity calculation base total 
+calculation 	value calculation 
+value calculation 	ct value calculation 
+calculation 	figure calculation 
+figure calculation 	observe figure calculation 
+observe figure calculation 	scenario observe figure calculation 
+hospital 	university hospital 
+university hospital 	committee university hospital 
+hospital 	child hospital 
+child hospital 	gesù child hospital 
+hospital 	committee hospital 
+committee hospital 	ethic committee hospital 
+hospital 	hospital research 
+hospital research 	hospital research ethic 
+hospital research ethic 	hospital research ethic committee 
+hospital 	hospital patient 
+hospital patient 	university hospital patient 
+deviation 	standard deviation 
+standard deviation 	mean standard deviation 
+deviation 	deviation sd 
+deviation sd 	standard deviation sd 
+deviation 	deviation mean 
+deviation mean 	standard deviation mean 
+standard deviation mean 	standard deviation mean mean 
+deviation 	deviation show 
+deviation show 	standard deviation show 
+deviation 	deviation p 
+deviation p 	standard deviation p 
+standard deviation p 	standard deviation p p 
+laser 	laser scan 
+laser scan 	confocal laser scan 
+laser 	confocal laser 
+confocal laser 	confocal laser scan 
+confocal laser scan 	confocal laser scan microscope 
+laser 	laser power 
+laser power 	excitation laser power 
+laser 	laser nm 
+laser nm 	argon laser nm 
+laser 	laser microscope 
+laser microscope 	confocal laser microscope 
+gap 	gap knowledge 
+gap knowledge 	gap knowledge remain 
+gap knowledge remain 	many gap knowledge remain 
+gap 	gap junction 
+gap junction 	gap junction protein 
+gap junction protein 	intestinal gap junction protein 
+gap 	knowledge gap 
+knowledge gap 	address knowledge gap 
+gap 	bridge gap 
+bridge gap 	bridge gap innate 
+bridge gap innate 	bridge gap innate adaptive 
+gap 	gap understand 
+gap understand 	major gap understand 
+tip 	tip balance 
+tip balance 	tip balance favor 
+tip balance favor 	tip balance favor host 
+tip 	tip cell 
+tip cell 	pipette tip cell 
+tip 	pipette tip 
+pipette tip 	sterile pipette tip 
+tip 	tip peptide 
+tip peptide 	tnf tip peptide 
+tip 	tnf tip 
+tnf tip 	tnf tip peptide 
+tnf tip peptide 	tnf tip peptide reduce 
+penetration 	tissue penetration 
+tissue penetration 	good tissue penetration 
+penetration 	tumor penetration 
+tumor penetration 	solid tumor penetration 
+penetration 	cell penetration 
+cell penetration 	cell penetration tumor 
+cell penetration tumor 	suppression cell penetration tumor 
+penetration 	skin penetration 
+skin penetration 	skin penetration nanomaterials 
+skin penetration nanomaterials 	exposure skin penetration nanomaterials 
+penetration 	penetration tumor 
+penetration tumor 	penetration tumor tissue 
+penetration tumor tissue 	decrease penetration tumor tissue 
+extraction 	rna extraction 
+rna extraction 	total rna extraction 
+total rna extraction 	total rna extraction extraction 
+extraction 	protein extraction 
+protein extraction 	protein extraction reagent 
+protein extraction reagent 	mammalian protein extraction reagent 
+extraction 	extraction kit 
+extraction kit 	extraction kit qiagen 
+extraction kit qiagen 	gel extraction kit qiagen 
+extraction 	dna extraction 
+dna extraction 	dna extraction kit 
+dna extraction kit 	dna extraction kit qiagen 
+extraction 	extraction buffer 
+extraction buffer 	extraction buffer mm 
+extraction buffer mm 	cell extraction buffer mm 
+optimization 	require optimization 
+require optimization 	approach require optimization 
+optimization 	optimization vaccine 
+optimization vaccine 	optimization vaccine efficacy 
+optimization vaccine efficacy 	capability optimization vaccine efficacy 
+optimization 	development optimization 
+development optimization 	lead development optimization 
+lead development optimization 	reaction lead development optimization 
+optimization 	optimization study 
+optimization study 	vivo optimization study 
+vivo optimization study 	infection vivo optimization study 
+optimization 	protocol optimization 
+protocol optimization 	development protocol optimization 
+development protocol optimization 	decribe development protocol optimization 
+attention 	attention pay 
+attention pay 	particular attention pay 
+attention 	increase attention 
+increase attention 	gain increase attention 
+attention 	receive attention 
+receive attention 	cell receive attention 
+attention 	special attention 
+special attention 	special attention give 
+special attention give 	perform special attention give 
+attention 	attract attention 
+attract attention 	cell attract attention 
+participation 	participation study 
+participation study 	consent participation study 
+participation 	consent participation 
+consent participation 	informed consent participation 
+participation 	suggest participation 
+suggest participation 	suggest participation cell 
+suggest participation cell 	stroma suggest participation cell 
+participation 	participation cell 
+participation cell 	suggest participation cell 
+participation 	study participation 
+study participation 	consent study participation 
+classification 	classification criterion 
+classification criterion 	classification criterion sle 
+classification criterion sle 	acr classification criterion sle 
+classification 	classification base 
+classification base 	classification base expression 
+classification base expression 	moreover classification base expression 
+classification 	classification patient 
+classification patient 	correct classification patient 
+classification 	accord classification 
+accord classification 	accord classification criterion 
+accord classification criterion 	establish accord classification criterion 
+classification 	classification model 
+classification model 	build classification model 
+europe 	europe america 
+europe america 	center europe america 
+europe 	north europe 
+north europe 	people north europe 
+europe 	europe asia 
+europe asia 	south europe asia 
+europe 	country europe 
+country europe 	country europe america 
+country europe america 	industrialize country europe america 
+europe 	state europe 
+state europe 	united state europe 
+man 	mouse man 
+mouse man 	mouse man express 
+mouse man express 	monocyte mouse man express 
+man 	man expression 
+man expression 	man expression rtec 
+man expression rtec 	reduce man expression rtec 
+man 	man mouse 
+man mouse 	cell man mouse 
+man 	case man 
+case man 	report case man 
+man 	man present 
+man present 	case man present 
+pharmaceutical 	pharmaceutical company 
+pharmaceutical company 	large pharmaceutical company 
+pharmaceutical 	pharmaceutical industry 
+pharmaceutical industry 	lack pharmaceutical industry 
+pharmaceutical 	pharmaceutical remain 
+pharmaceutical remain 	pharmaceutical remain author 
+pharmaceutical remain author 	pharmaceutical remain author declare 
+pharmaceutical 	pharmaceutical university 
+pharmaceutical university 	china pharmaceutical university 
+pharmaceutical 	pharmaceutical target 
+pharmaceutical target 	new pharmaceutical target 
+chinese 	chinese academy 
+chinese academy 	chinese academy science 
+chinese academy science 	chinese academy science shanghai 
+chinese 	chinese population 
+chinese population 	han chinese population 
+chinese 	chinese rhesus 
+chinese rhesus 	chinese rhesus macaque 
+chinese rhesus macaque 	plasmablast chinese rhesus macaque 
+chinese 	chinese hamster 
+chinese hamster 	chinese hamster ovary 
+chinese hamster ovary 	chinese hamster ovary cho 
+chinese 	han chinese 
+han chinese 	han chinese population 
+han chinese population 	han chinese population association 
+needle 	syringe needle 
+syringe needle 	syringe needle bd 
+syringe needle bd 	syringe needle bd bioscience 
+needle 	needle syringe 
+needle syringe 	needle syringe contain 
+needle syringe contain 	flush needle syringe contain 
+needle 	needle biopsy 
+needle biopsy 	fine needle biopsy 
+needle 	pass needle 
+pass needle 	pass needle time 
+pass needle time 	shear pass needle time 
+needle 	puncture needle 
+puncture needle 	valve puncture needle 
+valve puncture needle 	ileocecal valve puncture needle 
+camera 	digital camera 
+digital camera 	digital camera olympus 
+digital camera olympus 	equip digital camera olympus 
+camera 	ccd camera 
+ccd camera 	equip ccd camera 
+camera 	camera olympus 
+camera olympus 	digital camera olympus 
+camera 	camera image 
+camera image 	digital camera image 
+camera 	camera leica 
+camera leica 	digital camera leica 
+digital camera leica 	digital camera leica leica 
+uniform 	uniform distribution 
+uniform distribution 	draw uniform distribution 
+uniform 	cell uniform 
+cell uniform 	cell uniform distribution 
+cell uniform distribution 	wt cell uniform distribution 
+uniform 	uniform expression 
+uniform expression 	high uniform expression 
+uniform 	uniform population 
+uniform population 	form uniform population 
+uniform 	uniform cell 
+uniform cell 	uniform cell type 
+uniform cell type 	dcs uniform cell type 
+perspective 	new perspective 
+new perspective 	open new perspective 
+perspective 	clinical perspective 
+clinical perspective 	challenge clinical perspective 
+perspective 	therapeutic perspective 
+therapeutic perspective 	new therapeutic perspective 
+perspective 	future perspective 
+future perspective 	highlight future perspective 
+perspective 	different perspective 
+different perspective 	different perspective provide 
+different perspective provide 	circle different perspective provide 
+probability 	high probability 
+high probability 	associate high probability 
+probability 	increase probability 
+increase probability 	increase probability recurrence 
+increase probability recurrence 	patient increase probability recurrence 
+probability 	probability value 
+probability value 	probability value consider 
+probability value consider 	probability value consider significant 
+probability 	low probability 
+low probability 	low probability relapse 
+low probability relapse 	result low probability relapse 
+probability 	probability distribution 
+probability distribution 	binomial probability distribution 
+lobe 	lung lobe 
+lung lobe 	leave lung lobe 
+lobe 	frontal lobe 
+frontal lobe 	midbrain frontal lobe 
+lobe 	temporal lobe 
+temporal lobe 	temporal lobe epilepsy 
+temporal lobe epilepsy 	mesial temporal lobe epilepsy 
+lobe 	lobe lung 
+lobe lung 	leave lobe lung 
+lobe 	leave lobe 
+leave lobe 	leave lobe lung 
+leave lobe lung 	leave lobe lung fix 
+yield 	cell yield 
+cell yield 	high cell yield 
+yield 	yield similar 
+yield similar 	yield similar result 
+yield similar result 	yield similar result figure 
+yield 	yield high 
+yield high 	yield high level 
+yield high level 	mouse yield high level 
+yield 	high yield 
+high yield 	cell high yield 
+yield 	yield cell 
+yield cell 	cell yield cell 
+bmi 	index bmi 
+index bmi 	mass index bmi 
+bmi 	high bmi 
+high bmi 	high bmi negative 
+high bmi negative 	cytokine high bmi negative 
+bmi 	age bmi 
+age bmi 	age bmi blood 
+age bmi blood 	age bmi blood pressure 
+bmi 	bmi body 
+bmi body 	bmi body mass 
+bmi body mass 	bmi body mass index 
+bmi 	correlate bmi 
+correlate bmi 	correlate bmi figure 
+correlate bmi figure 	subpopulation correlate bmi figure 
+adopt 	cell adopt 
+cell adopt 	cell adopt phenotype 
+cell adopt phenotype 	force cell adopt phenotype 
+adopt 	adopt phenotype 
+adopt phenotype 	cell adopt phenotype 
+adopt 	adopt different 
+adopt different 	adopt different conformation 
+adopt different conformation 	sequence adopt different conformation 
+adopt 	strategy adopt 
+strategy adopt 	strategy adopt mtb 
+strategy adopt mtb 	evasion strategy adopt mtb 
+adopt 	macrophage adopt 
+macrophage adopt 	macrophage adopt different 
+macrophage adopt different 	activate macrophage adopt different 
+duration 	disease duration 
+disease duration 	disease duration year 
+disease duration year 	mean disease duration year 
+duration 	long duration 
+long duration 	long duration treatment 
+long duration treatment 	patient long duration treatment 
+duration 	short duration 
+short duration 	patient short duration 
+duration 	duration experiment 
+duration experiment 	week duration experiment 
+duration 	duration treatment 
+duration treatment 	short duration treatment 
+routine 	routine clinical 
+routine clinical 	routine clinical practice 
+routine clinical practice 	routine clinical practice study 
+routine 	clinical routine 
+clinical routine 	clinical routine laboratory 
+clinical routine laboratory 	common clinical routine laboratory 
+routine 	routine diagnostic 
+routine diagnostic 	routine diagnostic test 
+routine diagnostic test 	snec routine diagnostic test 
+routine 	routine blood 
+routine blood 	routine blood test 
+routine blood test 	consultation routine blood test 
+routine 	routine laboratory 
+routine laboratory 	clinical routine laboratory 
+utilization 	glucose utilization 
+glucose utilization 	increase glucose utilization 
+utilization 	utilization cell 
+utilization cell 	glucose utilization cell 
+utilization 	ea utilization 
+ea utilization 	faecalis ea utilization 
+utilization 	uptake utilization 
+uptake utilization 	nutrient uptake utilization 
+utilization 	clinical utilization 
+clinical utilization 	clinical utilization nk 
+clinical utilization nk 	clinical utilization nk cell 
+reproductive 	reproductive tract 
+reproductive tract 	female reproductive tract 
+reproductive 	female reproductive 
+female reproductive 	female reproductive tract 
+female reproductive tract 	female reproductive tract frt 
+reproductive 	porcine reproductive 
+porcine reproductive 	porcine reproductive respiratory 
+porcine reproductive respiratory 	porcine reproductive respiratory syndrome 
+reproductive 	reproductive respiratory 
+reproductive respiratory 	porcine reproductive respiratory 
+reproductive 	reproductive tissue 
+reproductive tissue 	cell reproductive tissue 
+nitrogen 	liquid nitrogen 
+liquid nitrogen 	frozen liquid nitrogen 
+nitrogen 	nitrogen specie 
+nitrogen specie 	reactive nitrogen specie 
+nitrogen 	reactive nitrogen 
+reactive nitrogen 	reactive nitrogen specie 
+reactive nitrogen specie 	reactive nitrogen specie rns 
+nitrogen 	nitrogen store 
+nitrogen store 	liquid nitrogen store 
+nitrogen 	oxygen nitrogen 
+oxygen nitrogen 	reactive oxygen nitrogen 
+dog 	dog infect 
+dog infect 	dog infect infantum 
+dog infect infantum 	dog infect infantum show 
+dog 	human dog 
+human dog 	human dog dromedary 
+human dog dromedary 	sequence human dog dromedary 
+dog 	healthy dog 
+healthy dog 	compare healthy dog 
+dog 	control dog 
+control dog 	healthy control dog 
+healthy control dog 	healthy control dog dog 
+dog 	dog vaccinate 
+dog vaccinate 	dog vaccinate mutant 
+dog vaccinate mutant 	dog vaccinate mutant challenge 
+inner 	inner membrane 
+inner membrane 	mitochondrial inner membrane 
+inner 	inner leaflet 
+inner leaflet 	inner leaflet plasma 
+inner leaflet plasma 	inner leaflet plasma membrane 
+inner 	inner ear 
+inner ear 	human inner ear 
+inner 	inner mitochondrial 
+inner mitochondrial 	inner mitochondrial membrane 
+inner mitochondrial membrane 	locate inner mitochondrial membrane 
+inner 	inner nuclear 
+inner nuclear 	inner nuclear layer 
+inner nuclear layer 	inl inner nuclear layer 
+history 	family history 
+family history 	positive family history 
+history 	natural history 
+natural history 	natural history disease 
+natural history disease 	change natural history disease 
+history 	patient history 
+patient history 	patient history clinical 
+patient history clinical 	base patient history clinical 
+history 	medical history 
+medical history 	patient medical history 
+history 	evolutionary history 
+evolutionary history 	evolutionary history infer 
+evolutionary history infer 	evolutionary history infer maximum 
+adequate 	adequate immune 
+adequate immune 	adequate immune response 
+adequate immune response 	mount adequate immune response 
+adequate 	provide adequate 
+provide adequate 	provide adequate protection 
+provide adequate protection 	need provide adequate protection 
+adequate 	ensure adequate 
+ensure adequate 	ensure adequate protection 
+ensure adequate protection 	vaccine ensure adequate protection 
+adequate 	lack adequate 
+lack adequate 	lack adequate control 
+lack adequate control 	study lack adequate control 
+adequate 	adequate response 
+adequate response 	mount adequate response 
+air 	air pouch 
+air pouch 	air pouch model 
+air pouch model 	murine air pouch model 
+air 	air exposure 
+air exposure 	vaccine air exposure 
+air 	air dry 
+air dry 	air dry min 
+air dry min 	grid air dry min 
+air 	air pollution 
+air pollution 	exposure air pollution 
+air 	humidify air 
+humidify air 	humidify air contain 
+humidify air contain 	humidify air contain cell 
+instrument 	instrument bd 
+instrument bd 	instrument bd bioscience 
+instrument bd bioscience 	ii instrument bd bioscience 
+instrument 	malvern instrument 
+malvern instrument 	malvern instrument malvern 
+malvern instrument malvern 	malvern instrument malvern uk 
+instrument 	ii instrument 
+ii instrument 	ii instrument bd 
+ii instrument bd 	ii instrument bd bioscience 
+instrument 	instrument roche 
+instrument roche 	lightcycler instrument roche 
+instrument 	pcr instrument 
+pcr instrument 	pcr instrument biosystems 
+pcr instrument biosystems 	steponeplus pcr instrument biosystems 
+retinal 	retinal pigment 
+retinal pigment 	retinal pigment epithelial 
+retinal pigment epithelial 	retinal pigment epithelial cell 
+retinal 	retinal degeneration 
+retinal degeneration 	retinal degeneration mouse 
+retinal degeneration mouse 	retinal degeneration mouse model 
+retinal 	retinal cell 
+retinal cell 	retinal cell type 
+retinal cell type 	expression retinal cell type 
+retinal 	retinal microglia 
+retinal microglia 	retinal microglia polarization 
+retinal microglia polarization 	signal retinal microglia polarization 
+retinal 	human retinal 
+human retinal 	human retinal pigment 
+human retinal pigment 	human retinal pigment epithelial 
+simulation 	md simulation 
+md simulation 	dynamic md simulation 
+dynamic md simulation 	dynamic md simulation simulation 
+simulation 	dynamic simulation 
+dynamic simulation 	molecular dynamic simulation 
+molecular dynamic simulation 	molecular dynamic simulation simulation 
+simulation 	simulation perform 
+simulation perform 	md simulation perform 
+simulation 	simulation result 
+simulation result 	simulation result abm 
+simulation result abm 	simulation result abm variant 
+simulation 	model simulation 
+model simulation 	model simulation cell 
+model simulation cell 	turned model simulation cell 
+phage 	phage display 
+phage display 	phage display library 
+phage display library 	antibody phage display library 
+phage 	pf phage 
+pf phage 	pf phage contribute 
+pf phage contribute 	pf phage contribute pa 
+phage 	phage library 
+phage library 	scfv phage library 
+phage 	phage therapy 
+phage therapy 	patient phage therapy 
+phage 	phage particle 
+phage particle 	phage particle display 
+phage particle display 	duplicate phage particle display 
+australia 	vic australia 
+vic australia 	melbourne vic australia 
+australia 	nsw australia 
+nsw australia 	sydney nsw australia 
+australia 	melbourne australia 
+melbourne australia 	hospital melbourne australia 
+australia 	sydney australia 
+sydney australia 	research sydney australia 
+research sydney australia 	medical research sydney australia 
+australia 	scientific australia 
+scientific australia 	thermo scientific australia 
+chemical 	cayman chemical 
+cayman chemical 	cayman chemical ann 
+cayman chemical ann 	cayman chemical ann arbor 
+chemical 	chemical structure 
+chemical structure 	different chemical structure 
+chemical 	physical chemical 
+physical chemical 	physical chemical barrier 
+physical chemical barrier 	physical chemical barrier skin 
+chemical 	sigma chemical 
+sigma chemical 	sigma chemical louis 
+sigma chemical louis 	sigma chemical louis mo 
+chemical 	chemical inhibitor 
+chemical inhibitor 	cell chemical inhibitor 
+deficit 	cognitive deficit 
+cognitive deficit 	development cognitive deficit 
+deficit 	neurological deficit 
+neurological deficit 	neurological deficit score 
+neurological deficit score 	neurological deficit score infarct 
+deficit 	memory deficit 
+memory deficit 	memory deficit induce 
+memory deficit induce 	ameliorate memory deficit induce 
+deficit 	behavioral deficit 
+behavioral deficit 	improve behavioral deficit 
+deficit 	functional deficit 
+functional deficit 	lead functional deficit 
+storage 	lipid storage 
+lipid storage 	simple lipid storage 
+storage 	energy storage 
+energy storage 	energy storage release 
+energy storage release 	function energy storage release 
+storage 	lysosomal storage 
+lysosomal storage 	lysosomal storage disease 
+lysosomal storage disease 	model lysosomal storage disease 
+storage 	iron storage 
+iron storage 	iron storage protein 
+iron storage protein 	iron storage protein ferritin 
+storage 	storage condition 
+storage condition 	different storage condition 
+measurement 	measurement perform 
+measurement perform 	measurement perform triplicate 
+measurement perform triplicate 	describe measurement perform triplicate 
+measurement 	measurement cell 
+measurement cell 	measurement cell proliferation 
+measurement cell proliferation 	base measurement cell proliferation 
+measurement 	cytokine measurement 
+cytokine measurement 	collect cytokine measurement 
+measurement 	measurement show 
+measurement show 	measurement show figure 
+measurement show figure 	collect measurement show figure 
+measurement 	measurement cytokine 
+measurement cytokine 	measurement cytokine production 
+measurement cytokine production 	collect measurement cytokine production 
+isolates 	clinical isolates 
+clinical isolates 	strain clinical isolates 
+isolates 	primary isolates 
+primary isolates 	cell primary isolates 
+isolates 	isolates show 
+isolates show 	clinical isolates show 
+isolates 	isolates different 
+isolates different 	clinical isolates different 
+isolates 	different isolates 
+different isolates 	induce different isolates 
+elongation 	elongation factor 
+elongation factor 	transcription elongation factor 
+elongation 	final elongation 
+final elongation 	final elongation min 
+final elongation min 	min final elongation min 
+elongation 	transcription elongation 
+transcription elongation 	transcription elongation factor 
+transcription elongation factor 	positive transcription elongation factor 
+elongation 	elongation min 
+elongation min 	final elongation min 
+elongation 	anneal elongation 
+anneal elongation 	denaturation anneal elongation 
+network 	regulatory network 
+regulatory network 	gene regulatory network 
+network 	network analysis 
+network analysis 	gene network analysis 
+network 	complex network 
+complex network 	complex network interaction 
+complex network interaction 	complex network interaction endothelial 
+network 	gene network 
+gene network 	gene network analysis 
+gene network analysis 	gene network analysis wgcna 
+network 	signal network 
+signal network 	complex signal network 
+bladder 	bladder cancer 
+bladder cancer 	cancer bladder cancer 
+bladder 	cancer bladder 
+cancer bladder 	cancer bladder cancer 
+cancer bladder cancer 	lung cancer bladder cancer 
+bladder 	bladder kidney 
+bladder kidney 	bladder kidney tissue 
+bladder kidney tissue 	bladder kidney tissue infect 
+bladder 	urinary bladder 
+urinary bladder 	urinary bladder cancer 
+urinary bladder cancer 	outcome urinary bladder cancer 
+bladder 	bladder carcinoma 
+bladder carcinoma 	bladder carcinoma cell 
+bladder carcinoma cell 	cell bladder carcinoma cell 
+testosterone 	testosterone level 
+testosterone level 	low testosterone level 
+testosterone 	serum testosterone 
+serum testosterone 	serum testosterone concentration 
+serum testosterone concentration 	associate serum testosterone concentration 
+testosterone 	testosterone treatment 
+testosterone treatment 	data testosterone treatment 
+testosterone 	effect testosterone 
+effect testosterone 	suppressive effect testosterone 
+testosterone 	treat testosterone 
+treat testosterone 	mouse treat testosterone 
+capsule 	kidney capsule 
+kidney capsule 	tissue kidney capsule 
+capsule 	polysaccharide capsule 
+polysaccharide capsule 	response polysaccharide capsule 
+capsule 	bacterial capsule 
+bacterial capsule 	aerobactin bacterial capsule 
+aerobactin bacterial capsule 	siderophore aerobactin bacterial capsule 
+capsule 	anthracis capsule 
+anthracis capsule 	bacillus anthracis capsule 
+capsule 	capsule figure 
+capsule figure 	bowman capsule figure 
+america 	latin america 
+latin america 	asia latin america 
+america 	south america 
+south america 	central south america 
+america 	north america 
+north america 	europe north america 
+america 	central america 
+central america 	south central america 
+america 	europe america 
+europe america 	center europe america 
+clinic 	mayo clinic 
+mayo clinic 	mayo clinic score 
+mayo clinic score 	crp mayo clinic score 
+clinic 	outpatient clinic 
+outpatient clinic 	visit outpatient clinic 
+clinic 	use clinic 
+use clinic 	use clinic treatment 
+use clinic treatment 	adalimumab use clinic treatment 
+clinic 	clinic treatment 
+clinic treatment 	clinic treatment patient 
+clinic treatment patient 	target clinic treatment patient 
+clinic 	therapy clinic 
+therapy clinic 	cell therapy clinic 
+compliance 	perform compliance 
+perform compliance 	experiment perform compliance 
+compliance 	conduct compliance 
+conduct compliance 	study conduct compliance 
+compliance 	compliance guideline 
+compliance guideline 	compliance guideline animal 
+compliance guideline animal 	compliance guideline animal experiment 
+compliance 	compliance declaration 
+compliance declaration 	compliance declaration helsinki 
+compliance declaration helsinki 	compliance declaration helsinki write 
+compliance 	compliance animal 
+compliance animal 	compliance animal welfare 
+compliance animal welfare 	compliance animal welfare act 
+food 	food allergy 
+food allergy 	development food allergy 
+food 	food water 
+food water 	access food water 
+food 	food drug 
+food drug 	food drug administration 
+food drug administration 	food drug administration fda 
+food 	food intake 
+food intake 	weight food intake 
+food 	access food 
+access food 	access food water 
+access food water 	free access food water 
+fiber 	dietary fiber 
+dietary fiber 	fermentation dietary fiber 
+fiber 	collagen fiber 
+collagen fiber 	collagen fiber content 
+collagen fiber content 	elastic collagen fiber content 
+fiber 	fiber diet 
+fiber diet 	high fiber diet 
+fiber 	high fiber 
+high fiber 	high fiber diet 
+high fiber diet 	fed high fiber diet 
+fiber 	nerve fiber 
+nerve fiber 	th nerve fiber 
+parent 	parent cell 
+parent cell 	parent cell population 
+parent cell population 	express parent cell population 
+parent 	obtain parent 
+obtain parent 	consent obtain parent 
+parent 	parent population 
+parent population 	percentage parent population 
+parent 	patient parent 
+patient parent 	obtain patient parent 
+parent 	parent child 
+parent child 	parent child scid 
+parent child scid 	need parent child scid 
+organization 	health organization 
+health organization 	world health organization 
+organization 	structural organization 
+structural organization 	surfactant structural organization 
+organization 	spatial organization 
+spatial organization 	spatial organization mc 
+spatial organization mc 	spatial organization mc pixel 
+organization 	domain organization 
+domain organization 	illustration domain organization 
+organization 	organization cell 
+organization cell 	organization cell surface 
+organization cell surface 	nanoscale organization cell surface 
+inclusion 	inclusion criterion 
+inclusion criterion 	meet inclusion criterion 
+inclusion 	inclusion body 
+inclusion body 	inclusion body myositis 
+inclusion body myositis 	sporadic inclusion body myositis 
+inclusion 	inclusion study 
+inclusion study 	prior inclusion study 
+prior inclusion study 	prior inclusion study study 
+inclusion 	inclusion exclusion 
+inclusion exclusion 	inclusion exclusion criterion 
+inclusion exclusion criterion 	inclusion exclusion criterion study 
+inclusion 	study inclusion 
+study inclusion 	study inclusion criterion 
+study inclusion criterion 	study inclusion criterion patient 
+season 	influenza season 
+influenza season 	consecutive influenza season 
+consecutive influenza season 	consecutive influenza season season 
+season 	transmission season 
+transmission season 	malaria transmission season 
+season 	dry season 
+dry season 	month dry season 
+season 	season figure 
+season figure 	influenza season figure 
+season 	season individual 
+season individual 	season individual receive 
+season individual receive 	pandemic season individual receive 
+objective 	objective response 
+objective response 	objective response rate 
+objective response rate 	objective response rate orr 
+objective 	objective study 
+objective study 	main objective study 
+objective 	objective review 
+objective review 	fair objective review 
+fair objective review 	standard fair objective review 
+objective 	fair objective 
+fair objective 	standard fair objective 
+objective 	microscope objective 
+microscope objective 	confocal microscope objective 
+coefficient 	correlation coefficient 
+correlation coefficient 	pearson correlation coefficient 
+coefficient 	diffusion coefficient 
+diffusion coefficient 	rate diffusion coefficient 
+coefficient 	coefficient variation 
+coefficient variation 	coefficient variation cv 
+coefficient variation cv 	coefficient variation cv calculate 
+coefficient 	coefficient r 
+coefficient r 	correlation coefficient r 
+coefficient 	coefficient calculate 
+coefficient calculate 	correlation coefficient calculate 
+evaluation 	clinical evaluation 
+clinical evaluation 	clinical evaluation patient 
+clinical evaluation patient 	perform clinical evaluation patient 
+evaluation 	evaluation perform 
+evaluation perform 	statistical evaluation perform 
+evaluation 	figure evaluation 
+figure evaluation 	group figure evaluation 
+evaluation 	evaluation patient 
+evaluation patient 	clinical evaluation patient 
+evaluation 	evaluation cell 
+evaluation cell 	evaluation cell surface 
+evaluation cell surface 	software evaluation cell surface 
+consumption 	oxygen consumption 
+oxygen consumption 	oxygen consumption rate 
+oxygen consumption rate 	oxygen consumption rate ocr 
+consumption 	consumption rate 
+consumption rate 	oxygen consumption rate 
+consumption 	alcohol consumption 
+alcohol consumption 	excessive alcohol consumption 
+consumption 	complement consumption 
+complement consumption 	sign complement consumption 
+consumption 	glucose consumption 
+glucose consumption 	glucose consumption lactate 
+glucose consumption lactate 	glucose consumption lactate production 
+cyst 	tissue cyst 
+tissue cyst 	contain tissue cyst 
+cyst 	brain cyst 
+brain cyst 	number brain cyst 
+cyst 	cyst gondii 
+cyst gondii 	cyst gondii strain 
+cyst gondii strain 	infect cyst gondii strain 
+cyst 	cyst formation 
+cyst formation 	tissue cyst formation 
+cyst 	gondii cyst 
+gondii cyst 	gondii cyst brain 
+gondii cyst brain 	persist gondii cyst brain 
+korea 	south korea 
+south korea 	seoul south korea 
+korea 	seoul korea 
+seoul korea 	university seoul korea 
+korea 	republic korea 
+republic korea 	seoul republic korea 
+korea 	university korea 
+university korea 	catholic university korea 
+korea 	daejeon korea 
+daejeon korea 	bioneer daejeon korea 
+cortex 	cerebral cortex 
+cerebral cortex 	cerebral cortex hippocampus 
+cerebral cortex hippocampus 	cerebral cortex hippocampus thalamus 
+cortex 	cortex hippocampus 
+cortex hippocampus 	cerebral cortex hippocampus 
+cortex 	prefrontal cortex 
+prefrontal cortex 	prefrontal cortex pvwm 
+prefrontal cortex pvwm 	region prefrontal cortex pvwm 
+cortex 	frontal cortex 
+frontal cortex 	spms frontal cortex 
+cortex 	renal cortex 
+renal cortex 	superficial renal cortex 
+anatomical 	anatomical location 
+anatomical location 	different anatomical location 
+anatomical 	anatomical site 
+anatomical site 	different anatomical site 
+anatomical 	different anatomical 
+different anatomical 	different anatomical site 
+different anatomical site 	cell different anatomical site 
+anatomical 	anatomical region 
+anatomical region 	different anatomical region 
+anatomical 	anatomical niche 
+anatomical niche 	specific anatomical niche 
+bond 	disulfide bond 
+disulfide bond 	form disulfide bond 
+bond 	hydrogen bond 
+hydrogen bond 	form hydrogen bond 
+bond 	bond formation 
+bond formation 	disulfide bond formation 
+bond 	bond lifetime 
+bond lifetime 	bond lifetime force 
+bond lifetime force 	coreceptor bond lifetime force 
+bond 	bond form 
+bond form 	number bond form 
+trace 	cell trace 
+cell trace 	cell trace violet 
+cell trace violet 	cell trace violet ctv 
+trace 	trace violet 
+trace violet 	cell trace violet 
+trace 	lineage trace 
+lineage trace 	lineage trace experiment 
+lineage trace experiment 	murine lineage trace experiment 
+trace 	trace amount 
+trace amount 	present trace amount 
+trace 	trace cell 
+trace cell 	cell trace cell 
+cell trace cell 	cell trace cell cell 
+period 	period time 
+period time 	long period time 
+period 	time period 
+time period 	different time period 
+period 	period day 
+period day 	time period day 
+time period day 	time period day day 
+period 	incubation period 
+incubation period 	incubation period cell 
+incubation period cell 	incubation period cell wash 
+period 	long period 
+long period 	long period time 
+long period time 	maintain long period time 
+visible 	cell visible 
+cell visible 	cell visible immune 
+cell visible immune 	tumor cell visible immune 
+visible 	visible figure 
+visible figure 	visible figure table 
+visible figure table 	group visible figure table 
+visible 	visible cell 
+visible cell 	cell visible cell 
+visible 	visible blood 
+visible blood 	visible blood vessel 
+visible blood vessel 	reaction visible blood vessel 
+visible 	band visible 
+band visible 	faint band visible 
+hybrid 	hybrid antigen 
+hybrid antigen 	hybrid antigen display 
+hybrid antigen display 	hybrid antigen display loop 
+hybrid 	hybrid cell 
+hybrid cell 	hybrid cell line 
+hybrid cell line 	hybrid cell line hrc 
+hybrid 	hybrid peptide 
+hybrid peptide 	parental hybrid peptide 
+hybrid 	hybrid gene 
+hybrid gene 	cfh hybrid gene 
+hybrid 	hybrid protein 
+hybrid protein 	hybrid protein contain 
+hybrid protein contain 	fh hybrid protein contain 
+uv 	uv light 
+uv light 	expose uv light 
+uv 	uv irradiation 
+uv irradiation 	follow uv irradiation 
+uv 	uv exposure 
+uv exposure 	follow uv exposure 
+uv 	uv radiation 
+uv radiation 	exposure uv radiation 
+uv 	ultraviolet uv 
+ultraviolet uv 	ultraviolet uv light 
+ultraviolet uv light 	exposure ultraviolet uv light 
+derivative 	protein derivative 
+protein derivative 	purify protein derivative 
+derivative 	derivative ppd 
+derivative ppd 	protein derivative ppd 
+derivative 	acid derivative 
+acid derivative 	amino acid derivative 
+derivative 	cell derivative 
+cell derivative 	stem cell derivative 
+derivative 	synthetic derivative 
+synthetic derivative 	phytochemical synthetic derivative 
+disturbance 	metabolic disturbance 
+metabolic disturbance 	cause metabolic disturbance 
+disturbance 	immune disturbance 
+immune disturbance 	severe immune disturbance 
+disturbance 	disturbance gut 
+disturbance gut 	disturbance gut microbiota 
+disturbance gut microbiota 	mucosa disturbance gut microbiota 
+disturbance 	disturbance immune 
+disturbance immune 	disturbance immune response 
+disturbance immune response 	detect disturbance immune response 
+disturbance 	disturbance homeostasis 
+disturbance homeostasis 	contribute disturbance homeostasis 
+contribute disturbance homeostasis 	factor contribute disturbance homeostasis 
+bleed 	mouse bleed 
+mouse bleed 	mouse bleed day 
+mouse bleed day 	figure mouse bleed day 
+bleed 	bleed day 
+bleed day 	mouse bleed day 
+mouse bleed day 	mouse bleed day day 
+bleed 	rectal bleed 
+rectal bleed 	diarrhea rectal bleed 
+diarrhea rectal bleed 	diarrhea rectal bleed bleed 
+bleed 	animal bleed 
+animal bleed 	animal bleed day 
+animal bleed day 	animal bleed day post 
+bleed 	risk bleed 
+risk bleed 	increase risk bleed 
+cortical 	cortical actin 
+cortical actin 	cortical actin cytoskeleton 
+cortical actin cytoskeleton 	preserve cortical actin cytoskeleton 
+cortical 	cortical neuron 
+cortical neuron 	primary cortical neuron 
+cortical 	cortical medullary 
+cortical medullary 	cortical medullary sinus 
+cortical medullary sinus 	expansion cortical medullary sinus 
+cortical 	cortical bone 
+cortical bone 	trabecular cortical bone 
+cortical 	cortical atrophy 
+cortical atrophy 	rate cortical atrophy 
+adaptation 	metabolic adaptation 
+metabolic adaptation 	metabolic adaptation cell 
+metabolic adaptation cell 	address metabolic adaptation cell 
+adaptation 	immune adaptation 
+immune adaptation 	immune adaptation pregnancy 
+immune adaptation pregnancy 	maternal immune adaptation pregnancy 
+adaptation 	cell adaptation 
+cell adaptation 	nk cell adaptation 
+adaptation 	adaptation cell 
+adaptation cell 	metabolic adaptation cell 
+adaptation 	adaptation host 
+adaptation host 	adaptation host environment 
+adaptation host environment 	genetic adaptation host environment 
+nutritional 	nutritional status 
+nutritional status 	nutritional status immune 
+nutritional status immune 	nutritional status immune cell 
+nutritional 	nutritional intervention 
+nutritional intervention 	nutritional intervention study 
+nutritional intervention study 	finding nutritional intervention study 
+nutritional 	nutritional immunity 
+nutritional immunity 	involve nutritional immunity 
+nutritional 	nutritional factor 
+nutritional factor 	nutritional factor modulate 
+nutritional factor modulate 	production nutritional factor modulate 
+nutritional 	nutritional immune 
+nutritional immune 	nutritional immune intervention 
+nutritional immune intervention 	function nutritional immune intervention 
+interval 	confidence interval 
+confidence interval 	confidence interval ci 
+confidence interval ci 	ratio confidence interval ci 
+interval 	time interval 
+time interval 	different time interval 
+interval 	interval ci 
+interval ci 	confidence interval ci 
+confidence interval ci 	confidence interval ci ci 
+interval 	interval week 
+interval week 	time interval week 
+time interval week 	time interval week week 
+interval 	interval day 
+interval day 	interval day day 
+interval day day 	dose interval day day 
+rrna 	rrna gene 
+rrna gene 	rrna gene sequence 
+rrna gene sequence 	rrna gene sequence analysis 
+rrna 	rrna sequence 
+rrna sequence 	base rrna sequence 
+rrna 	bacterial rrna 
+bacterial rrna 	bacterial rrna gene 
+bacterial rrna gene 	region bacterial rrna gene 
+rrna 	region rrna 
+region rrna 	region rrna gene 
+region rrna gene 	region rrna gene amplify 
+rrna 	rna rrna 
+rna rrna 	ribosomal rna rrna 
+discrimination 	cell discrimination 
+cell discrimination 	dead cell discrimination 
+discrimination 	allow discrimination 
+allow discrimination 	allow discrimination cell 
+allow discrimination cell 	comprise allow discrimination cell 
+discrimination 	discrimination perform 
+discrimination perform 	cell discrimination perform 
+discrimination 	discrimination cell 
+discrimination cell 	bioscience discrimination cell 
+bioscience discrimination cell 	bd bioscience discrimination cell 
+discrimination 	discrimination different 
+discrimination different 	discrimination different vesicle 
+discrimination different vesicle 	discrimination different vesicle type 
+rate 	survival rate 
+survival rate 	increase survival rate 
+rate 	high rate 
+high rate 	associate high rate 
+rate 	mortality rate 
+mortality rate 	high mortality rate 
+rate 	response rate 
+response rate 	objective response rate 
+rate 	flow rate 
+flow rate 	min flow rate 
+content 	intellectual content 
+intellectual content 	manuscript intellectual content 
+content 	protein content 
+protein content 	total protein content 
+content 	content author 
+content author 	intellectual content author 
+intellectual content author 	intellectual content author author 
+content 	content cell 
+content cell 	dna content cell 
+content 	high content 
+high content 	high content screen 
+high content screen 	high content screen system 
+scan 	laser scan 
+laser scan 	confocal laser scan 
+scan 	scan electron 
+scan electron 	scan electron microscopy 
+scan electron microscopy 	scan electron microscopy sem 
+scan 	scan confocal 
+scan confocal 	laser scan confocal 
+scan 	scan microscope 
+scan microscope 	laser scan microscope 
+scan 	ct scan 
+ct scan 	tomography ct scan 
+dependence 	dependence cell 
+dependence cell 	dependence cell help 
+dependence cell help 	differential dependence cell help 
+dependence 	cell dependence 
+cell dependence 	extent cell dependence 
+dependence 	time dependence 
+time dependence 	specifying time dependence 
+specifying time dependence 	formulate specifying time dependence 
+dependence 	increase dependence 
+increase dependence 	increase dependence glycolysis 
+increase dependence glycolysis 	metabolism increase dependence glycolysis 
+dependence 	dependence signal 
+dependence signal 	mechanism dependence signal 
+mechanism dependence signal 	immunosuppressive mechanism dependence signal 
+optical 	optical density 
+optical density 	optical density od 
+optical density od 	optical density od nm 
+optical 	optical microscope 
+optical microscope 	optical microscope magnification 
+optical microscope magnification 	observe optical microscope magnification 
+optical 	optical microscopy 
+optical microscopy 	follow optical microscopy 
+follow optical microscopy 	giemsa follow optical microscopy 
+optical 	optical imaging 
+optical imaging 	optical imaging analysis 
+optical imaging analysis 	optical imaging analysis perform 
+optical 	optical image 
+optical image 	optical image technique 
+optical image technique 	optical image technique macrophage 
+minimum 	minimum maximum 
+minimum maximum 	minimum maximum value 
+minimum maximum value 	represent minimum maximum value 
+minimum 	minimum essential 
+minimum essential 	minimum essential medium 
+minimum essential medium 	minimum essential medium mem 
+minimum 	represent minimum 
+represent minimum 	represent minimum maximum 
+represent minimum maximum 	represent minimum maximum value 
+minimum 	minimum event 
+minimum event 	minimum event acquire 
+minimum event acquire 	minimum event acquire facscanto 
+minimum 	minimum number 
+minimum number 	threshold minimum number 
+threshold minimum number 	homogenate threshold minimum number 
+adherence 	bacterial adherence 
+bacterial adherence 	promote bacterial adherence 
+adherence 	cell adherence 
+cell adherence 	allow cell adherence 
+adherence 	plastic adherence 
+plastic adherence 	follow plastic adherence 
+adherence 	adherence cell 
+adherence cell 	allow adherence cell 
+allow adherence cell 	allow adherence cell cell 
+adherence 	adherence plastic 
+adherence plastic 	adherence plastic culture 
+adherence plastic culture 	adherence plastic culture plat 
+inadequate 	inadequate response 
+inadequate response 	patient inadequate response 
+inadequate 	result inadequate 
+result inadequate 	patient result inadequate 
+inadequate 	inadequate immune 
+inadequate immune 	inadequate immune response 
+inadequate immune response 	activation inadequate immune response 
+inadequate 	lead inadequate 
+lead inadequate 	factor lead inadequate 
+inadequate 	inadequate cell 
+inadequate cell 	lead inadequate cell 
+epidemic 	hiv epidemic 
+hiv epidemic 	global hiv epidemic 
+epidemic 	porcine epidemic 
+porcine epidemic 	porcine epidemic diarrhea 
+porcine epidemic diarrhea 	porcine epidemic diarrhea virus 
+epidemic 	epidemic diarrhea 
+epidemic diarrhea 	porcine epidemic diarrhea 
+epidemic 	influenza epidemic 
+influenza epidemic 	seasonal influenza epidemic 
+epidemic 	seasonal epidemic 
+seasonal epidemic 	cause seasonal epidemic 
+average 	average number 
+average number 	average number cell 
+average number cell 	average number cell division 
+average 	represent average 
+represent average 	bar represent average 
+average 	average value 
+average value 	represent average value 
+average 	show average 
+show average 	data show average 
+average 	average cell 
+average cell 	cell average cell 
+liquid 	liquid nitrogen 
+liquid nitrogen 	frozen liquid nitrogen 
+liquid 	liquid chromatography 
+liquid chromatography 	performance liquid chromatography 
+liquid 	frozen liquid 
+frozen liquid 	frozen liquid nitrogen 
+frozen liquid nitrogen 	frozen liquid nitrogen store 
+liquid 	store liquid 
+store liquid 	store liquid nitrogen 
+store liquid nitrogen 	store liquid nitrogen use 
+liquid 	performance liquid 
+performance liquid 	performance liquid chromatography 
+performance liquid chromatography 	high performance liquid chromatography 
+neutral 	neutral buffer 
+neutral buffer 	neutral buffer formalin 
+neutral buffer formalin 	fix neutral buffer formalin 
+neutral 	neutral lipid 
+neutral lipid 	neutral lipid stain 
+neutral lipid stain 	green neutral lipid stain 
+neutral 	neutral ph 
+neutral ph 	charge neutral ph 
+neutral 	fix neutral 
+fix neutral 	fix neutral buffer 
+fix neutral buffer 	fix neutral buffer formalin 
+neutral 	neutral condition 
+neutral condition 	neutral condition figure 
+neutral condition figure 	neutral condition figure consistent 
+random 	random forest 
+random forest 	random forest analysis 
+random forest analysis 	random forest analysis distinguish 
+random 	random field 
+random field 	cell random field 
+random 	random primer 
+random primer 	random primer invitrogen 
+random primer invitrogen 	invitrogen random primer invitrogen 
+random 	random effect 
+random effect 	random effect model 
+random effect model 	random effect model describe 
+random 	random walk 
+random walk 	random walk migration 
+random walk migration 	perform random walk migration 
+internal 	internal control 
+internal control 	gapdh internal control 
+internal 	internal standard 
+internal standard 	normalize internal standard 
+internal 	internal organ 
+internal organ 	skin internal organ 
+internal 	gapdh internal 
+gapdh internal 	gapdh internal control 
+gapdh internal control 	dehydrogenase gapdh internal control 
+internal 	internal reference 
+internal reference 	internal reference gene 
+internal reference gene 	protein internal reference gene 
+manual 	manual gating 
+manual gating 	manual gating strategy 
+manual gating strategy 	manual gating strategy figure 
+manual 	manual analysis 
+manual analysis 	central manual analysis 
+manual 	manual gate 
+manual gate 	manual gate draw 
+manual gate draw 	manual gate draw base 
+manual 	manufacturer manual 
+manufacturer manual 	accord manufacturer manual 
+manual 	accord manual 
+accord manual 	accord manual instruction 
+accord manual instruction 	min accord manual instruction 
+criterion 	diagnostic criterion 
+diagnostic criterion 	meet diagnostic criterion 
+criterion 	exclusion criterion 
+exclusion criterion 	inclusion exclusion criterion 
+criterion 	inclusion criterion 
+inclusion criterion 	meet inclusion criterion 
+criterion 	classification criterion 
+classification criterion 	classification criterion sle 
+classification criterion sle 	acr classification criterion sle 
+criterion 	criterion patient 
+criterion patient 	exclusion criterion patient 
+blind 	double blind 
+double blind 	randomize double blind 
+blind 	blind manner 
+blind manner 	blind manner follow 
+blind manner follow 	pathologist blind manner follow 
+blind 	perform blind 
+perform blind 	analysis perform blind 
+blind 	blind study 
+blind study 	double blind study 
+double blind study 	randomize double blind study 
+blind 	blind group 
+blind group 	blind group assignment 
+blind group assignment 	investigator blind group assignment 
+operate 	operate characteristic 
+operate characteristic 	receiver operate characteristic 
+operate 	receiver operate 
+receiver operate 	receiver operate characteristic 
+receiver operate characteristic 	receiver operate characteristic roc 
+operate 	mechanism operate 
+mechanism operate 	similar mechanism operate 
+operate 	operate different 
+operate different 	operate different level 
+operate different level 	show operate different level 
+operate 	cell operate 
+cell operate 	effector cell operate 
+fatigue 	fatigue syndrome 
+fatigue syndrome 	myalgic fatigue syndrome 
+fatigue 	depression fatigue 
+depression fatigue 	pain depression fatigue 
+fatigue 	chronic fatigue 
+chronic fatigue 	chronic fatigue syndrome 
+chronic fatigue syndrome 	diseases chronic fatigue syndrome 
+fatigue 	central fatigue 
+central fatigue 	feature central fatigue 
+fatigue 	development fatigue 
+development fatigue 	contribute development fatigue 
+genus 	genus level 
+genus level 	family genus level 
+genus 	bacterial genus 
+bacterial genus 	abundance bacterial genus 
+genus 	family genus 
+family genus 	order family genus 
+order family genus 	class order family genus 
+genus 	genus specie 
+genus specie 	genus specie level 
+genus specie level 	family genus specie level 
+genus 	abundance genus 
+abundance genus 	relative abundance genus 
+electron 	electron microscopy 
+electron microscopy 	transmission electron microscopy 
+transmission electron microscopy 	transmission electron microscopy microscopy 
+electron 	transmission electron 
+transmission electron 	transmission electron microscopy 
+transmission electron microscopy 	transmission electron microscopy tem 
+electron 	electron transport 
+electron transport 	electron transport chain 
+electron transport chain 	mitochondrial electron transport chain 
+electron 	scan electron 
+scan electron 	scan electron microscopy 
+scan electron microscopy 	scan electron microscopy sem 
+electron 	electron microscope 
+electron microscope 	scan electron microscope 
+venous 	venous blood 
+venous blood 	venous blood sample 
+venous blood sample 	venous blood sample collect 
+venous 	venous thrombosis 
+venous thrombosis 	arterial venous thrombosis 
+venous 	venous thrombus 
+venous thrombus 	venous thrombus resolution 
+venous thrombus resolution 	accelerate venous thrombus resolution 
+venous 	peripheral venous 
+peripheral venous 	peripheral venous blood 
+peripheral venous blood 	peripheral venous blood collect 
+venous 	arterial venous 
+arterial venous 	arterial venous thrombosis 
+arterial venous thrombosis 	arterial venous thrombosis pregnancy 
+biomedical 	biomedical research 
+biomedical research 	biomedical research institute 
+biomedical research institute 	nanjing biomedical research institute 
+biomedical 	biomedical science 
+biomedical science 	institute biomedical science 
+biomedical 	institute biomedical 
+institute biomedical 	institute biomedical science 
+institute biomedical science 	institute biomedical science university 
+biomedical 	biomedical model 
+biomedical model 	pig biomedical model 
+biomedical 	biomedical laboratory 
+biomedical laboratory 	pbl biomedical laboratory 
+larval 	larval stage 
+larval stage 	early larval stage 
+larval 	larval development 
+larval development 	early larval development 
+larval 	larval migration 
+larval migration 	larval migration lung 
+larval migration lung 	larval migration lung acquire 
+larval 	zebrafish larval 
+zebrafish larval 	zebrafish larval macrophage 
+zebrafish larval macrophage 	transcriptome zebrafish larval macrophage 
+larval 	larval survival 
+larval survival 	zebrafish larval survival 
+insertion 	insertion deletion 
+insertion deletion 	mutation insertion deletion 
+insertion 	membrane insertion 
+membrane insertion 	daily membrane insertion 
+daily membrane insertion 	tnfα daily membrane insertion 
+insertion 	deletion insertion 
+deletion insertion 	deletion insertion junction 
+deletion insertion junction 	segment deletion insertion junction 
+insertion 	insertion gene 
+insertion gene 	insertion gene tk 
+insertion gene tk 	insertion gene tk locus 
+insertion 	insertion site 
+insertion site 	insertion site sequence 
+insertion site sequence 	insertion site sequence tradis 
+myocardial 	myocardial infarction 
+myocardial infarction 	acute myocardial infarction 
+myocardial 	acute myocardial 
+acute myocardial 	acute myocardial infarction 
+acute myocardial infarction 	patient acute myocardial infarction 
+myocardial 	myocardial injury 
+myocardial injury 	model myocardial injury 
+myocardial 	myocardial damage 
+myocardial damage 	extent myocardial damage 
+myocardial 	myocardial inflammation 
+myocardial inflammation 	myocardial inflammation contractile 
+myocardial inflammation contractile 	myocardial inflammation contractile dysfunction 
+global 	global health 
+global health 	global health problem 
+global health problem 	major global health problem 
+global 	global gene 
+global gene 	global gene expression 
+global gene expression 	global gene expression analysis 
+global 	global population 
+global population 	global population infect 
+global population infect 	quarter global population infect 
+global 	global mouse 
+global mouse 	control global mouse 
+global 	global change 
+global change 	global change gene 
+global change gene 	global change gene expression 
+gender 	age gender 
+age gender 	age gender match 
+age gender match 	age gender match healthy 
+gender 	gender age 
+gender age 	gender age trauma 
+gender age trauma 	gender age trauma severity 
+gender 	gender difference 
+gender difference 	gender difference immune 
+gender difference immune 	gender difference immune response 
+gender 	gender match 
+gender match 	age gender match 
+gender 	female gender 
+female gender 	age female gender 
+methodology 	different methodology 
+different methodology 	study different methodology 
+methodology 	methodology describe 
+methodology describe 	accord methodology describe 
+methodology 	development methodology 
+development methodology 	development methodology acquisition 
+development methodology acquisition 	development methodology acquisition data 
+methodology 	develop methodology 
+develop methodology 	study develop methodology 
+methodology 	methodology study 
+methodology study 	design methodology study 
+substitute 	residue substitute 
+residue substitute 	residue substitute glutamine 
+residue substitute glutamine 	asparagine residue substitute glutamine 
+substitute 	cell substitute 
+cell substitute 	cell substitute cell 
+cell substitute cell 	cell substitute cell control 
+substitute 	substitute residue 
+substitute residue 	citrulline substitute residue 
+citrulline substitute residue 	substitute citrulline substitute residue 
+substitute 	position substitute 
+position substitute 	residue position substitute 
+substitute 	substitute cell 
+substitute cell 	cell substitute cell 
+cell substitute cell 	cell substitute cell cell 
+fat 	high fat 
+high fat 	high fat diet 
+high fat diet 	high fat diet hfd 
+fat 	fat diet 
+fat diet 	high fat diet 
+fat 	fat body 
+fat body 	fat body hemocytes 
+fat body hemocytes 	target fat body hemocytes 
+fat 	body fat 
+body fat 	body fat mass 
+body fat mass 	total body fat mass 
+fat 	fat pad 
+fat pad 	mammary fat pad 
+vulnerable 	vulnerable population 
+vulnerable population 	donor vulnerable population 
+donor vulnerable population 	transplant donor vulnerable population 
+vulnerable 	cell vulnerable 
+cell vulnerable 	cancer cell vulnerable 
+vulnerable 	vulnerable plaque 
+vulnerable plaque 	patient vulnerable plaque 
+vulnerable 	patient vulnerable 
+patient vulnerable 	patient vulnerable plaque 
+patient vulnerable plaque 	plasma patient vulnerable plaque 
+vulnerable 	vulnerable infection 
+vulnerable infection 	patient vulnerable infection 
+case 	case report 
+case report 	publication case report 
+case 	cell case 
+cell case 	cell case cell 
+cell case cell 	nk cell case cell 
+case 	report case 
+report case 	al report case 
+case 	case cell 
+case cell 	cell case cell 
+cell case cell 	cell case cell cell 
+case 	case control 
+case control 	case control study 
+case control study 	control case control study 
+distal 	distal colon 
+distal colon 	distal colon tissue 
+distal colon tissue 	distal colon tissue cm 
+distal 	proximal distal 
+proximal distal 	proximal distal colon 
+proximal distal colon 	proximal distal colon section 
+distal 	distal small 
+distal small 	distal small intestine 
+distal small intestine 	middle distal small intestine 
+distal 	distal site 
+distal site 	distal site infection 
+distal site infection 	tissue distal site infection 
+distal 	distal tissue 
+distal tissue 	distal tissue sit 
+distal tissue sit 	distal tissue sit lung 
+insulin 	insulin resistance 
+insulin resistance 	inflammation insulin resistance 
+insulin 	insulin sensitivity 
+insulin sensitivity 	improve insulin sensitivity 
+insulin 	insulin signal 
+insulin signal 	insulin signal pathway 
+insulin signal pathway 	insulin signal pathway protein 
+insulin 	insulin secretion 
+insulin secretion 	increase insulin secretion 
+insulin 	inflammation insulin 
+inflammation insulin 	inflammation insulin resistance 
+inflammation insulin resistance 	tissue inflammation insulin resistance 
+prevalence 	high prevalence 
+high prevalence 	show high prevalence 
+prevalence 	increase prevalence 
+increase prevalence 	patient increase prevalence 
+prevalence 	low prevalence 
+low prevalence 	population low prevalence 
+prevalence 	disease prevalence 
+disease prevalence 	disease prevalence increase 
+disease prevalence increase 	sclerosis disease prevalence increase 
+prevalence 	prevalence antibody 
+prevalence antibody 	high prevalence antibody 
+carbohydrate 	carbohydrate recognition 
+carbohydrate recognition 	carbohydrate recognition domain 
+carbohydrate recognition domain 	carbohydrate recognition domain crd 
+carbohydrate 	carbohydrate structure 
+carbohydrate structure 	bind carbohydrate structure 
+carbohydrate 	carbohydrate moiety 
+carbohydrate moiety 	carbohydrate moiety present 
+carbohydrate moiety present 	profile carbohydrate moiety present 
+carbohydrate 	carbohydrate metabolism 
+carbohydrate metabolism 	lipid carbohydrate metabolism 
+carbohydrate 	bind carbohydrate 
+bind carbohydrate 	lectin bind carbohydrate 
+smoke 	cigarette smoke 
+cigarette smoke 	exposure cigarette smoke 
+smoke 	smoke exposure 
+smoke exposure 	cigarette smoke exposure 
+smoke 	tobacco smoke 
+tobacco smoke 	cigarette tobacco smoke 
+smoke 	factor smoke 
+factor smoke 	risk factor smoke 
+smoke 	effect smoke 
+effect smoke 	suppressive effect smoke 
+topical 	topical application 
+topical application 	topical application imiquimod 
+topical application imiquimod 	topical application imiquimod imq 
+topical 	topical treatment 
+topical treatment 	systemic topical treatment 
+topical 	topical administration 
+topical administration 	topical administration chemokines 
+topical administration chemokines 	frt topical administration chemokines 
+topical 	topical steroid 
+topical steroid 	treatment topical steroid 
+topical 	topical corticosteroid 
+topical corticosteroid 	systemic topical corticosteroid 
+integrate 	integrate signal 
+integrate signal 	cell integrate signal 
+integrate 	cell integrate 
+cell integrate 	cell integrate signal 
+cell integrate signal 	sensor cell integrate signal 
+integrate 	integrate dna 
+integrate dna 	integrate dna technology 
+integrate dna technology 	integrate dna technology coralville 
+integrate 	integrate data 
+integrate data 	integrate data analysis 
+integrate data analysis 	many integrate data analysis 
+integrate 	integrate multiple 
+integrate multiple 	integrate multiple signal 
+integrate multiple signal 	cell integrate multiple signal 
+retina 	cell retina 
+cell retina 	inflammatory cell retina 
+retina 	outer retina 
+outer retina 	microglia outer retina 
+retina 	diabetic retina 
+diabetic retina 	control diabetic retina 
+retina 	microglia retina 
+microglia retina 	microglia retina rcs 
+microglia retina rcs 	microglia retina rcs rat 
+retina 	mouse retina 
+mouse retina 	normal mouse retina 
+sinus 	subcapsular sinus 
+subcapsular sinus 	subcapsular sinus sc 
+subcapsular sinus sc 	ln subcapsular sinus sc 
+sinus 	medullary sinus 
+medullary sinus 	cortical medullary sinus 
+sinus 	sinus macrophage 
+sinus macrophage 	subcapsular sinus macrophage 
+sinus 	aortic sinus 
+aortic sinus 	section aortic sinus 
+sinus 	lymphatic sinus 
+lymphatic sinus 	vessel lymphatic sinus 
+urine 	urine sample 
+urine sample 	urine sample collect 
+urine sample collect 	weekly urine sample collect 
+urine 	serum urine 
+serum urine 	plasma serum urine 
+urine 	urine protein 
+urine protein 	urine protein excretion 
+urine protein excretion 	urine protein excretion level 
+urine 	blood urine 
+blood urine 	blood urine saliva 
+blood urine saliva 	fluid blood urine saliva 
+urine 	plasma urine 
+plasma urine 	serum plasma urine 
+diabetes 	type diabetes 
+type diabetes 	type diabetes mellitus 
+type diabetes mellitus 	disease type diabetes mellitus 
+diabetes 	diabetes mellitus 
+diabetes mellitus 	type diabetes mellitus 
+diabetes 	autoimmune diabetes 
+autoimmune diabetes 	model autoimmune diabetes 
+diabetes 	disease diabetes 
+disease diabetes 	cardiovascular disease diabetes 
+diabetes 	patient diabetes 
+patient diabetes 	patient diabetes mellitus 
+patient diabetes mellitus 	patient diabetes mellitus type 
+procedure 	experimental procedure 
+experimental procedure 	experimental procedure approve 
+experimental procedure approve 	experimental procedure approve institutional 
+procedure 	procedure perform 
+procedure perform 	procedure perform accordance 
+procedure perform accordance 	experimental procedure perform accordance 
+procedure 	procedure approve 
+procedure approve 	experimental procedure approve 
+procedure 	animal procedure 
+animal procedure 	animal procedure approve 
+animal procedure approve 	animal procedure approve animal 
+procedure 	standard procedure 
+standard procedure 	accord standard procedure 
+japanese 	japanese encephalitis 
+japanese encephalitis 	japanese encephalitis virus 
+japanese encephalitis virus 	japanese encephalitis virus jev 
+japanese 	japanese flounder 
+japanese flounder 	japanese flounder paralichthys 
+japanese flounder paralichthys 	japanese flounder paralichthys olivaceus 
+japanese 	japanese patient 
+japanese patient 	japanese patient bp 
+japanese patient bp 	report japanese patient bp 
+japanese 	japanese population 
+japanese population 	frequency japanese population 
+japanese 	virus japanese 
+virus japanese 	virus japanese encephalitis 
+virus japanese encephalitis 	virus japanese encephalitis virus 
+demographic 	demographic clinical 
+demographic clinical 	demographic clinical characteristic 
+demographic clinical characteristic 	demographic clinical characteristic patient 
+demographic 	demographic data 
+demographic data 	clinical demographic data 
+demographic 	demographic characteristic 
+demographic characteristic 	clinical demographic characteristic 
+demographic 	patient demographic 
+patient demographic 	patient demographic clinical 
+patient demographic clinical 	patient demographic clinical characteristic 
+demographic 	clinical demographic 
+clinical demographic 	clinical demographic characteristic 
+clinical demographic characteristic 	clinical demographic characteristic patient 
+melatonin 	effect melatonin 
+effect melatonin 	effect melatonin inflammasome 
+effect melatonin inflammasome 	effect melatonin inflammasome activation 
+melatonin 	melatonin treatment 
+melatonin treatment 	melatonin treatment reduce 
+melatonin treatment reduce 	group melatonin treatment reduce 
+melatonin 	treat melatonin 
+treat melatonin 	cell treat melatonin 
+melatonin 	level melatonin 
+level melatonin 	subsequent level melatonin 
+melatonin 	melatonin effect 
+melatonin effect 	reverse melatonin effect 
+scar 	scar formation 
+scar formation 	glial scar formation 
+scar 	scar tissue 
+scar tissue 	scar tissue result 
+scar tissue result 	form scar tissue result 
+scar 	glial scar 
+glial scar 	glial scar formation 
+glial scar formation 	suppress glial scar formation 
+scar 	pg scar 
+pg scar 	biopsy pg scar 
+scar 	bcg scar 
+bcg scar 	presence bcg scar 
+congenital 	congenital infection 
+congenital infection 	cause congenital infection 
+congenital 	congenital toxoplasmosis 
+congenital toxoplasmosis 	chronic congenital toxoplasmosis 
+congenital 	severe congenital 
+severe congenital 	severe congenital neutropenia 
+severe congenital neutropenia 	severe congenital neutropenia scn 
+congenital 	congenital malformation 
+congenital malformation 	congenital malformation chromosomal 
+congenital malformation chromosomal 	congenital malformation chromosomal abnormality 
+congenital 	congenital heart 
+congenital heart 	congenital heart disease 
+congenital heart disease 	birth congenital heart disease 
+spore 	fungal spore 
+fungal spore 	ppos fungal spore 
+spore 	spore germination 
+spore germination 	inhibit spore germination 
+spore 	spore incubate 
+spore incubate 	spore incubate protein 
+spore incubate protein 	control spore incubate protein 
+spore 	spore challenge 
+spore challenge 	ames spore challenge 
+spore 	bassiana spore 
+bassiana spore 	incubate bassiana spore 
+integrated 	integrated dna 
+integrated dna 	integrated dna technology 
+integrated dna technology 	integrated dna technology coralville 
+integrated 	integrated hiv 
+integrated hiv 	integrated hiv dna 
+integrated hiv dna 	contain integrated hiv dna 
+integrated 	integrated analysis 
+integrated analysis 	integrated analysis immune 
+integrated analysis immune 	figure integrated analysis immune 
+integrated 	contain integrated 
+contain integrated 	cell contain integrated 
+integrated 	cell integrated 
+cell integrated 	genome cell integrated 
+droplet 	lipid droplet 
+lipid droplet 	lipid droplet formation 
+lipid droplet formation 	induce lipid droplet formation 
+droplet 	droplet formation 
+droplet formation 	lipid droplet formation 
+droplet 	droplet accumulation 
+droplet accumulation 	lipid droplet accumulation 
+droplet 	droplet contain 
+droplet contain 	droplet contain cell 
+droplet contain cell 	associate droplet contain cell 
+droplet 	droplet digital 
+droplet digital 	droplet digital pcr 
+droplet digital pcr 	droplet digital pcr ddpcr 
+ion 	ion channel 
+ion channel 	ion channel function 
+ion channel function 	induce ion channel function 
+ion 	calcium ion 
+calcium ion 	intracellular calcium ion 
+ion 	metal ion 
+metal ion 	metal ion affinity 
+metal ion affinity 	metal ion affinity chromatography 
+ion 	ion transport 
+ion transport 	vectorial ion transport 
+ion 	precursor ion 
+precursor ion 	abundant precursor ion 
+ovarian 	ovarian cancer 
+ovarian cancer 	ovarian cancer patient 
+ovarian cancer patient 	ascites ovarian cancer patient 
+ovarian 	ovarian carcinoma 
+ovarian carcinoma 	ovarian carcinoma cell 
+ovarian carcinoma cell 	ovarian carcinoma cell line 
+ovarian 	ovarian tumor 
+ovarian tumor 	ovarian tumor cell 
+ovarian tumor cell 	primary ovarian tumor cell 
+ovarian 	cancer ovarian 
+cancer ovarian 	cancer ovarian cancer 
+cancer ovarian cancer 	breast cancer ovarian cancer 
+ovarian 	epithelial ovarian 
+epithelial ovarian 	epithelial ovarian cancer 
+epithelial ovarian cancer 	epithelial ovarian cancer eoc 
