@@ -1,8 +1,13 @@
 #!/usr/bin/env python3
+import sys
+import logging
 import argparse
 from random import choice
 
 from scipy.stats import normaltest
+
+from scipy.stats import zscore
+from scipy.special import ndtr
 
 def check_keyword_intersection(keywords, mesh):
     # use set to avoid duplicates
@@ -33,19 +38,24 @@ def run_trials(corpus, mesh, num_keywords, num_trials):
     return random_intersect_results
     
 def compute_p_val(method_intersect_len, random_intersect_results):
+    logger = logging.getLogger(__name__)
+
     # check for normality of random_intersect_results
     k2, p = normaltest(random_intersect_results)
-    print(f"normaltest p-val: {p}")
-
-    left_of = len([it for it in random_intersect_results if it < method_intersect_len])
-    
-    #print(f"method_int_len {method_intersect_len}, left_of {left_of}")
-    return 1.0 - (left_of / len(random_intersect_results))
+    logger.info(f"normaltest p-val: {p}")
+   
+    temp = random_intersect_results
+    temp.append(method_intersect_len)
+    zs = zscore(temp)
+        
+    return 1 - ndtr(zs[-1])
 
 def load_mesh(mesh_fp):
     with open(mesh_fp, encoding="ISO-8859-1", mode="r") as handle:
         mesh = [line.strip("\n") for line in handle]
     
+    # mesh should be a set because later there are millions of checks to see
+    # if an element is in the data structure
     return set(mesh)
 
 def load_list(fp):
@@ -59,24 +69,54 @@ def load_list(fp):
     
     return items
 
+def initialize_logger(debug=False, quiet=False):
+    level = logging.INFO
+    if debug:
+        level = logging.DEBUG
+
+    # Set up logging
+    logger = logging.getLogger(__name__)
+    logger.setLevel(level)
+    handler = logging.FileHandler("eval.log")
+    formatter = logging.Formatter("%(asctime)s - %(name)s - %(levelname)s - %(message)s")
+    handler.setFormatter(formatter)
+    logger.addHandler(handler)
+
+    if not quiet:
+        handler = logging.StreamHandler(sys.stdout)
+        handler.setLevel(level)
+        formatter = logging.Formatter("%(asctime)s - %(name)s - %(levelname)s - %(message)s")
+        handler.setFormatter(formatter)
+        logger.addHandler(handler)
+    
+    return logger
+
 def get_args():
+    logger = logging.getLogger(__name__)
+
     parser = argparse.ArgumentParser()
-    parser.add_argument("-c", "--corpus", help="Path to input corpus file", 
-            required=True)
-    parser.add_argument("-r", "--result", help="Path to results from our method",
-            required=True)
-    #parser.add_argument("-k", "--keywords-total", help="Total number of keywords found by " \
-    #        "our method", type=int)
-    parser.add_argument("-m", "--mesh", help="Path to lemmatized MeSH file",
-            required=True)
+    parser.add_argument("-c", "--corpus", help="Path to input corpus file", required=True)
+    parser.add_argument("-r", "--result", help="Path to results from our method", required=True)
+    parser.add_argument("-m", "--mesh", help="Path to lemmatized MeSH file", required=True)
     parser.add_argument("-t", "--trials", help="Number of random trials to run",
             type=int, default=100000)
     
+    args = parser.parse_args()
+   
+    # log delimiter
+    logger.info("###############################")
+    logger.info(f"corpus: {args.corpus}")
+    logger.info(f"method results: {args.result}")
+    logger.info(f"mesh file: {args.mesh}")
+    logger.info(f"num trials: {args.trials}")
+
     return parser.parse_args()
 
 if __name__ == "__main__":
+    logger = initialize_logger()
+
     args = get_args()
-    
+
     # load in things
     corpus = load_list(args.corpus)
     method_results = load_list(args.result)
@@ -85,10 +125,10 @@ if __name__ == "__main__":
     # get relevant metrics for our method
     method_results_len = len(method_results)
     method_intersect_len = check_keyword_intersection(method_results, mesh)
-
+    
     # run trials
     random_intersect_results = run_trials(corpus, mesh, method_results_len, args.trials)
 
     p = compute_p_val(method_intersect_len, random_intersect_results)
 
-    print(f"p: {p}") 
+    logger.info(f"p: {p}") 
