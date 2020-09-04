@@ -2,6 +2,8 @@
 import argparse
 from random import choice
 
+from scipy.stats import normaltest
+
 def check_keyword_intersection(keywords, mesh):
     # use set to avoid duplicates
     result = {word for word in keywords if word in mesh}
@@ -31,6 +33,10 @@ def run_trials(corpus, mesh, num_keywords, num_trials):
     return random_intersect_results
     
 def compute_p_val(method_intersect_len, random_intersect_results):
+    # check for normality of random_intersect_results
+    k2, p = normaltest(random_intersect_results)
+    print(f"normaltest p-val: {p}")
+
     left_of = len([it for it in random_intersect_results if it < method_intersect_len])
     
     #print(f"method_int_len {method_intersect_len}, left_of {left_of}")
@@ -40,7 +46,7 @@ def load_mesh(mesh_fp):
     with open(mesh_fp, encoding="ISO-8859-1", mode="r") as handle:
         mesh = [line.strip("\n") for line in handle]
     
-    return mesh
+    return set(mesh)
 
 def load_list(fp):
     items = []
