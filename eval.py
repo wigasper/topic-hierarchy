@@ -1,12 +1,11 @@
 #!/usr/bin/env python3
 import sys
+import math
 import logging
 import argparse
 from random import choice
 
 from scipy.stats import normaltest
-
-from scipy.stats import zscore
 from scipy.special import ndtr
 
 def check_keyword_intersection(keywords, mesh):
@@ -44,11 +43,14 @@ def compute_p_val(method_intersect_len, random_intersect_results):
     k2, p = normaltest(random_intersect_results)
     logger.info(f"normaltest p-val: {p}")
    
-    temp = random_intersect_results
-    temp.append(method_intersect_len)
-    zs = zscore(temp)
+    x_bar = sum(random_intersect_results) / len(random_intersect_results)
+    
+    numer = sum([(x - x_bar) ** 2 for x in random_intersect_results])
+    std_dev = math.sqrt(numer / (len(random_intersect_results) - 1))
+
+    z = (method_intersect_len - x_bar) / std_dev
         
-    return 1 - ndtr(zs[-1])
+    return 1 - ndtr(z)
 
 def load_mesh(mesh_fp):
     with open(mesh_fp, encoding="ISO-8859-1", mode="r") as handle:
