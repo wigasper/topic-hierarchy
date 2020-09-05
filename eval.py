@@ -8,13 +8,27 @@ from random import choice
 from scipy.stats import normaltest
 from scipy.special import ndtr
 
+def check_bigram_intersection(bigrams, mesh):
+    result = set()
+
+    for bigram in bigrams:
+        bigram_elements = bigram.split(" ")
+        for mesh_term in mesh:
+            mesh_elements = mesh_term.split(" ")
+            intersect = [word for word in bigram_elements if word in mesh_elements]
+
+            if len(mesh_elements) == len(intersect) and bigram not in result:
+                result.append(bigram)
+
+    return len(result)
+
 def check_keyword_intersection(keywords, mesh):
     # use set to avoid duplicates
     result = {word for word in keywords if word in mesh}
     
     return len(result)
 
-def get_random_keywords(corpus, number):
+def get_random_elements(corpus, number):
     if len(corpus) < number:
         raise Exception("Corpus is smaller than required number of keywords for evaluation")
 
@@ -27,12 +41,22 @@ def get_random_keywords(corpus, number):
 
     return keywords
 
+# NOTE: currently this is just going to assume keywords/bigrams based 
+# on the split length
 def run_trials(corpus, mesh, num_keywords, num_trials):
+    logger = logging.getLogger(__name__)
+
     random_intersect_results = []
     
-    for _ in range(num_trials):
-        keywords = get_random_keywords(corpus, num_keywords) 
-        random_intersect_results.append(check_keyword_intersection(keywords, mesh))
+    if len(corpus[0].split()) == 2:
+        logger.info("Bigrams detected")
+        for _ in range(num_trials):
+            bigrams = get_random_elements(corpus, num_keywords)
+            random_intersect_results.append(check_bigram_intersection(bigrams, mesh))
+    else:
+        for _ in range(num_trials):
+            keywords = get_random_elements(corpus, num_keywords) 
+            random_intersect_results.append(check_keyword_intersection(keywords, mesh))
 
     return random_intersect_results
     
