@@ -4,60 +4,60 @@ import math
 import logging
 import argparse
 from random import choice
+from itertools import permutations
 
 from scipy.stats import normaltest
 from scipy.special import ndtr
 
-def check_bigram_intersection(bigrams, mesh):
-    result = set()
 
-    for bigram in bigrams:
-        bigram_elements = bigram.split(" ")
-        for mesh_term in mesh:
-            mesh_elements = mesh_term.split(" ")
-            intersect = [word for word in bigram_elements if word in mesh_elements]
-
-            if len(mesh_elements) == len(intersect) and bigram not in result:
-                result.append(bigram)
-
-    return len(result)
-
-def check_keyword_intersection(keywords, mesh):
-    # use set to avoid duplicates
-    result = {word for word in keywords if word in mesh}
-    
-    return len(result)
+def check_intersection(elements, mesh):
+    return len({el for el in elements if el in mesh})
 
 def get_random_elements(corpus, number):
     if len(corpus) < number:
-        raise Exception("Corpus is smaller than required number of keywords for evaluation")
+        raise Exception("Corpus is smaller than required number of elements for evaluation")
 
-    keywords = set()
+    elements = set()
 
     # add a random keyword until there are the required number
     # keywords is a set so there will be no duplicates
-    while len(keywords) < number:
-        keywords.add(choice(corpus))
+    while len(elements) < number:
+        elements.add(choice(corpus))
 
-    return keywords
+    return elements
+
+# this is used to convert mesh into a suitable set for 'in' checking
+# millions of times for bigrams. for each item in mesh, if the item 
+# consists of 2 or more words, then all 2-length permutations are added 
+# to the set
+#
+# NOTE: this is not memory efficient, but fine for now
+def get_bigram_set(mesh):
+    mesh_out = set()
+
+    for element in mesh:
+        element = element.split()
+        
+        if len(element) > 1:
+            # dedup
+            element = list(dict.fromkeys(element))
+            
+            for permutation in permutations(element, 2):
+                mesh_out.add(" ".join(permutation))
+
+    return mesh_out
 
 # NOTE: currently this is just going to assume keywords/bigrams based 
 # on the split length
-def run_trials(corpus, mesh, num_keywords, num_trials):
+def run_trials(corpus, mesh, num_elements, num_trials):
     logger = logging.getLogger(__name__)
 
     random_intersect_results = []
     
-    if len(corpus[0].split()) == 2:
-        logger.info("Bigrams detected")
-        for _ in range(num_trials):
-            bigrams = get_random_elements(corpus, num_keywords)
-            random_intersect_results.append(check_bigram_intersection(bigrams, mesh))
-    else:
-        for _ in range(num_trials):
-            keywords = get_random_elements(corpus, num_keywords) 
-            random_intersect_results.append(check_keyword_intersection(keywords, mesh))
-
+    for _ in range(num_trials):
+        elements = get_random_elements(corpus, num_elements)
+        random_intersect_results.append(check_intersection(elements, mesh))
+    
     return random_intersect_results
     
 def compute_p_val(method_intersect_len, random_intersect_results):
@@ -124,17 +124,17 @@ def get_args():
     parser.add_argument("-c", "--corpus", help="Path to input corpus file", required=True)
     parser.add_argument("-r", "--result", help="Path to results from our method", required=True)
     parser.add_argument("-m", "--mesh", help="Path to lemmatized MeSH file", required=True)
-    parser.add_argument("-t", "--trials", help="Number of random trials to run",
+    parser.add_argument("-t", "--trials", help="Number of random trials to run, default=100000",
             type=int, default=100000)
     
     args = parser.parse_args()
    
     # log delimiter
     logger.info("###############################")
-    logger.info(f"corpus: {args.corpus}")
-    logger.info(f"method results: {args.result}")
-    logger.info(f"mesh file: {args.mesh}")
-    logger.info(f"num trials: {args.trials}")
+    logger.info(f"Corpus: {args.corpus}")
+    logger.info(f"Method results: {args.result}")
+    logger.info(f"MeSH file: {args.mesh}")
+    logger.info(f"Num. trials: {args.trials}")
 
     return parser.parse_args()
 
@@ -148,12 +148,21 @@ if __name__ == "__main__":
     method_results = load_list(args.result)
     mesh = load_mesh(args.mesh)
     
-    # get relevant metrics for our method
-    method_results_len = len(method_results)
-    method_intersect_len = check_keyword_intersection(method_results, mesh)
+    # bigram detection
+    if len(corpus[0].split()) == 2:
+        logger.info("Bigrams detected")
+        mesh = get_bigram_set(mesh)
+    
+    # get result metric for our method
+    method_intersect_len = check_intersection(method_results, mesh)
+    
+    logger.info(f"Method intersect length: {method_intersect_len}")
     
     # run trials
-    random_intersect_results = run_trials(corpus, mesh, method_results_len, args.trials)
+    random_intersect_results = run_trials(corpus, mesh, len(method_results), args.trials)
+    random_mean = sum(random_intersect_results) / len(random_intersect_results)
+    logger.info(f"Random intersect mean: {random_mean}")
+    logger.info(f"Random intersect max: {max(random_intersect_results)}")
 
     p = compute_p_val(method_intersect_len, random_intersect_results)
 
