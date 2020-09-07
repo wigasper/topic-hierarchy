@@ -16,22 +16,27 @@ def get_children(uid, term_trees):
         a list of the children of the UID
     '''
     
+    out = []
+
     # Return empty list for terms (like 'D005260' - 'Female') that aren't
     # actually part of any trees
-    if len(term_trees[uid][0]) == 0:
-        return []
-
-    children = []
-
-    for tree in term_trees[uid]:
-        parent_depth = len(tree.split("."))
-        for key, vals in term_trees.items():
-            for val in vals:
-                child_depth = len(val.split("."))
-                if tree in val and uid != key and child_depth == parent_depth + 1:
-                    children.append(key)
     
-    return list(dict.fromkeys(children))
+    if uid in term_trees.keys() and len(term_trees[uid][0]) > 0:
+        children = []
+
+        # NOTE: this is really inefficient
+        for tree in term_trees[uid]:
+            parent_depth = len(tree.split("."))
+            for key, vals in term_trees.items():
+                for val in vals:
+                    child_depth = len(val.split("."))
+                    if tree in val and uid != key and child_depth == parent_depth + 1:
+                        children.append(key)
+        
+        # dedup
+        out = list(dict.fromkeys(children))
+    
+    return out
 
 def get_informative_terms(term_freqs, term_trees, cutoff):
     informative_terms = []
@@ -41,7 +46,8 @@ def get_informative_terms(term_freqs, term_trees, cutoff):
     for uid in candidate_terms:
         children = get_children(uid, term_trees)
         
-        if len([child for child in children if term_freqs[child] < cutoff]) == 0:
+        all_children_below_cutoff = len([c for c in children if term_freqs[c] < cutoff]) == 0
+        if len(children) > 0 and all_children_below_cutoff:
             informative_terms.append(uid)
 
     return informative_terms
@@ -60,6 +66,21 @@ def load_term_freqs(desc_uids, counts_fp):
                     term_freqs[uid] = 1
 
     return term_freqs
+
+def load_specialized_term_set(fp):
+    terms = []
+    with open(fp, "r") as handle:
+        for line in handle:
+            line = line.strip("\n").split("\t")
+            
+            terms.extend([it for it in line[1:] if it])
+
+    return set(terms)
+
+def write_output(terms_out, out_fp, desc_data):
+    with open(out_fp, "w") as out:
+        for term in terms_out:
+            out.write(f"{desc_data[term]['name']}\n")
 
 def initialize_logger(debug=False, quiet=False):
     level = logging.INFO
@@ -88,18 +109,27 @@ def get_args():
 
     parser = argparse.ArgumentParser()
     parser.add_argument("-m", "--mesh", help="Path to MeSH descriptor file", 
-            default="desc2020")
+            default="data/desc2020")
     parser.add_argument("-c", "--counts", help="Path to term counts csv", 
-            default="pm_doc_term_counts.csv")
+            default="data/pm_doc_term_counts.csv")
+    parser.add_argument("-a", "--articles", help="Path to term counts for articles subset",
+            default="data/specialized_3yrs_solutions_uids.tsv")
+    parser.add_argument("-o", "--output", help="Output file path",
+            default="data/seed_topics")
     parser.add_argument("-t", "--threshold", help="Cutoff value", type=int, required=True)
     args = parser.parse_args()
 
     logger.info("###############################")
+    logger.info(f"MeSH descriptor: {args.mesh}")
+    logger.info(f"Term counts file: {args.counts}")
+    logger.info(f"Articles subset: {args.articles}")
+    logger.info(f"Cutoff value: {args.threshold}")
 
     return args
 
 if __name__ == "__main__":
-    
+    logger = initialize_logger()
+
     args = get_args()
 
     desc_data, desc_uids = parse_mesh(args.mesh)
@@ -117,4 +147,11 @@ if __name__ == "__main__":
 
     informative_terms = get_informative_terms(term_freqs, term_trees, args.threshold)
     
-    print(f"{informative_terms}")
+    logger.info(f"Found {len(informative_terms)} informative terms")
+
+    target_subset = load_specialized_term_set(args.articles)
+
+    terms_out = [term for term in informative_terms if term in target_subset]
+    logger.info(f"{len(terms_out)} informative terms are in the subset")
+
+    write_output(terms_out, args.output, desc_data)
