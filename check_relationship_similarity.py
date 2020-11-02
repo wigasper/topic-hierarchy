@@ -186,3 +186,5 @@ if __name__ == "__main__":
 
     logger.info(f"total number of components: {len(components)}")
     logger.info(f"num components w/ multiple mesh terms: {len(components_subset)}")
+
+    for component
