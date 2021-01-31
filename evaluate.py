@@ -138,7 +138,8 @@ def get_args():
 
     return parser.parse_args()
 
-def evaluate(corpus, method_result, mesh, n_trials, verbose=True):
+# thresh is just for the experiment!!!
+def evaluate(corpus, method_result, mesh, n_trials, thresh, verbose=True):
     if verbose:
         logger = logging.getLogger(__name__)
     
@@ -163,7 +164,7 @@ def evaluate(corpus, method_result, mesh, n_trials, verbose=True):
         logger.info(f"Random intersect max: {max(random_intersect_results)}")
         logger.info(f"p: {p}") 
 
-    return p
+    return (thresh, p, method_intersect_len, random_mean, max(random_intersect_results))
 
 if __name__ == "__main__":
     logger = initialize_logger()

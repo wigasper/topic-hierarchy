@@ -5,6 +5,8 @@ import argparse
 from collections import Counter
 from time import perf_counter
 
+from multiprocessing import Pool
+
 from evaluate import evaluate, load_mesh, load_list
 
 from tqdm import tqdm
@@ -97,7 +99,6 @@ def select_keywords(spec_freq_dic, len_special, gen_freq_dic, len_general, min_t
 
     for thresh in tqdm(range(min_thresh, max_thresh)):
         keywords = []
-        detail_keywords = []
         z_score_freq_dict = {}
         z_score_weird_dict = {}
 
@@ -107,8 +108,7 @@ def select_keywords(spec_freq_dic, len_special, gen_freq_dic, len_general, min_t
                     z_score_freq_dict[key] = (spec_freq_dic[key] - avg_f) / sd_f
                     z_score_weird_dict[key] = (weirdness[key] - avg_weird) / sd_avg_weird
                     # you can change the threshold value here
-                    if z_score_freq_dict[key] > 100 and z_score_weird_dict[key] > thresh:
-                        detail_keywords.append(tuple((key, z_score_freq_dict[key], z_score_weird_dict[key])))
+                    if z_score_freq_dict[key] > thresh and z_score_weird_dict[key] > thresh:
                         keywords.append(key)
             except:
                 pass
@@ -124,21 +124,36 @@ def experiment_routine(gen_kw_path, special_kw_path, special_corpus_path, mesh_p
     special_corpus = load_list(special_corpus_path)
 
     results = []
-    min_thresh = 300
-    max_thresh = 400
+    min_thresh = 50
+    max_thresh = 60
 
-    logger.info("Max thresh: {max_thresh}")
+    logger.info(f"Min thresh: {min_thresh}")
+    logger.info(f"Max thresh: {max_thresh}")
     logger.info("Starting thresholding")
     result_gen = select_keywords(spec_freq_dic, len_special, gen_freq_dic, len_general, min_thresh, max_thresh)
     
-    for (keywords, thresh) in result_gen:
-        p_val = evaluate(special_corpus, keywords, mesh, 1000, verbose=False)
-        results.append((thresh, p_val))
+    pool = Pool(processes=8)
+
+    futures = [pool.apply_async(evaluate, (special_corpus, keywords, mesh, 1000, thresh, False)) for (keywords, thresh) in result_gen]
     
+    results = []
+    for res in futures:
+        results.append(res.get())
+    #for (keywords, thresh) in result_gen:
+    #    (p_val, res_int_len, rand_int_mean, rand_int_max) = evaluate(special_corpus, keywords, 
+    #            mesh, 1000, verbose=False)
+
+    #    results.append((thresh, p_val, res_int_len, rand_int_mean, rand_int_max))
+    pool.close()
+    pool.join()
     logger.info("Writing results")
+
+    results = sorted(results, key=lambda res: res[0])
+
     with open("thresh_exp_res", "w") as out:
+        out.write("threshold\tpval\tresult_intersect_len\trand_inter_mean_len\trand_inter_max\n")
         for res in results:
-            out.write(f"{res[0]}\t{res[1]}\n")
+            out.write(f"{res[0]}\t{res[1]}\t{res[2]}\t{res[3]}\t{res[4]}\n")
 
 def get_args():
     logger = logging.getLogger(__name__)
