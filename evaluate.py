@@ -138,6 +138,33 @@ def get_args():
 
     return parser.parse_args()
 
+def evaluate(corpus, method_result, mesh, n_trials, verbose=True):
+    if verbose:
+        logger = logging.getLogger(__name__)
+    
+    # bigram detection
+    if len(corpus[0].split()) == 2:
+        if verbose:
+            logger.info("Bigrams detected")
+        mesh = get_bigram_set(mesh)
+    
+    # get result metric for our method
+    method_intersect_len = check_intersection(method_result, mesh)
+    
+    # run trials
+    random_intersect_results = run_trials(corpus, mesh, len(method_result), n_trials)
+    random_mean = sum(random_intersect_results) / len(random_intersect_results)
+
+    p = compute_p_val(method_intersect_len, random_intersect_results)
+
+    if verbose:
+        logger.info(f"Method intersect length: {method_intersect_len}")
+        logger.info(f"Random intersect mean: {random_mean}")
+        logger.info(f"Random intersect max: {max(random_intersect_results)}")
+        logger.info(f"p: {p}") 
+
+    return p
+
 if __name__ == "__main__":
     logger = initialize_logger()
 
@@ -148,22 +175,4 @@ if __name__ == "__main__":
     method_results = load_list(args.result)
     mesh = load_mesh(args.mesh)
     
-    # bigram detection
-    if len(corpus[0].split()) == 2:
-        logger.info("Bigrams detected")
-        mesh = get_bigram_set(mesh)
-    
-    # get result metric for our method
-    method_intersect_len = check_intersection(method_results, mesh)
-    
-    logger.info(f"Method intersect length: {method_intersect_len}")
-    
-    # run trials
-    random_intersect_results = run_trials(corpus, mesh, len(method_results), args.trials)
-    random_mean = sum(random_intersect_results) / len(random_intersect_results)
-    logger.info(f"Random intersect mean: {random_mean}")
-    logger.info(f"Random intersect max: {max(random_intersect_results)}")
-
-    p = compute_p_val(method_intersect_len, random_intersect_results)
-
-    logger.info(f"p: {p}") 
+    _ = evaluate(corpus, method_result, mesh, args.trials)
