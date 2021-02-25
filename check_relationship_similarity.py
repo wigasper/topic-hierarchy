@@ -184,6 +184,18 @@ def get_bigram_set(mesh, lem_mesh_map):
                 mesh_out.add(p)
                 lem_mesh_map[p] = lem_mesh_map[original]
 
+            for permutation in permutations(element, 3):
+                p = " ".join(permutation)
+                mesh_out.add(p)
+                lem_mesh_map[p] = lem_mesh_map[original]
+
+            for permutation in permutations(element, 4):
+                p = " ".join(permutation)
+                mesh_out.add(p)
+                lem_mesh_map[p] = lem_mesh_map[original]
+
+
+
     return (mesh_out, lem_mesh_map)
 
 def load_lem_mesh(mesh_fp):
@@ -222,7 +234,8 @@ def load_from_edge_list(fp):
         adj_list[key] = list(dict.fromkeys(adj_list[key]))
     return adj_list
 
-def analyze_component(component, lem_mesh, lem_mesh_bigrams, lem_mesh_map, desc_data):
+def analyze_component(component, lem_mesh, lem_mesh_bigrams, lem_mesh_map, 
+        desc_data, adj_list, mesh_graph):
     result = []
 
     intersect = list(get_intersect(component, lem_mesh))
@@ -236,7 +249,21 @@ def analyze_component(component, lem_mesh, lem_mesh_bigrams, lem_mesh_map, desc_
     corresponding = list(dict.fromkeys([desc_data[lem_mesh_map[t]]['name'] for t in intersect]))
     result.append("Corresponding MeSH terms:")
     result.append("; ".join(corresponding))
-
+    
+    result.append("Dists")
+    for term_0_idx in range(len(intersect)):
+        for term_1_idx in range(term_0_idx + 1, len(intersect)):
+            term_0 = intersect[term_0_idx]
+            term_1 = intersect[term_1_idx]
+            term_dist = get_distance(term_0, term_1, adj_list)
+            corr_mesh_0 = lem_mesh_map[term_0]
+            corr_mesh_1 = lem_mesh_map[term_1]
+            mesh_dist = get_distance(corr_mesh_0, corr_mesh_1, mesh_graph)
+            
+            mesh_term_0 = desc_data[corr_mesh_0]['name']
+            mesh_term_1 = desc_data[corr_mesh_1]['name']
+            result.append(f"{term_0} - {term_1} dist: {term_dist}")
+            result.append(f"{mesh_term_0} - {mesh_term_1} dist: {mesh_dist}")
     return result
 
 def initialize_logger(debug=False, quiet=False):
@@ -311,7 +338,8 @@ if __name__ == "__main__":
         if rmsd < 2.0:
             results.append("####")
             results.append(f"RMSD: {rmsd}")
-            result = analyze_component(component, lem_mesh, lem_mesh_bigrams, lem_uid_map, desc_data)
+            result = analyze_component(component, lem_mesh, lem_mesh_bigrams, 
+                    lem_uid_map, desc_data, adj_list, mesh_graph)
             
             results.extend(result)
         rmsds.append(rmsd)
