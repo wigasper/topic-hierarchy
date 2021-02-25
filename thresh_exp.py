@@ -97,23 +97,26 @@ def select_keywords(spec_freq_dic, len_special, gen_freq_dic, len_general, min_t
     
     # step 3 starts here
 
-    for thresh in tqdm(range(min_thresh, max_thresh)):
-        keywords = []
-        z_score_freq_dict = {}
-        z_score_weird_dict = {}
+    #for thresh in tqdm(range(min_thresh, max_thresh)):
+        #keywords = []
+    z_score_freq_dict = {}
+    z_score_weird_dict = {}
 
-        for key in freq_dic:
-            try:
-                if key in kw_special:
-                    z_score_freq_dict[key] = (spec_freq_dic[key] - avg_f) / sd_f
-                    z_score_weird_dict[key] = (weirdness[key] - avg_weird) / sd_avg_weird
-                    # you can change the threshold value here
-                    if z_score_freq_dict[key] > thresh and z_score_weird_dict[key] > thresh:
-                        keywords.append(key)
-            except:
-                pass
+    for key in freq_dic:
+        try:
+            if key in kw_special:
+                z_score_freq_dict[key] = (spec_freq_dic[key] - avg_f) / sd_f
+                z_score_weird_dict[key] = (weirdness[key] - avg_weird) / sd_avg_weird
+                # you can change the threshold value here
+                #if z_score_freq_dict[key] > thresh and z_score_weird_dict[key] > thresh:
+                #    keywords.append(key)
+        except:
+            pass
+    
+    res = [(k, v) for k, v in sorted(z_score_weird_dict.items(), key=lambda it: it[1])]
 
-        yield (keywords, thresh)
+    for idx, _result in enumerate(res[min_thresh:max_thresh]):
+        yield ([it[0] for it in res[0:idx]], idx)
 
 def experiment_routine(gen_kw_path, special_kw_path, special_corpus_path, mesh_path, min_spec_freq):
     logger = logging.getLogger(__name__)
@@ -124,8 +127,11 @@ def experiment_routine(gen_kw_path, special_kw_path, special_corpus_path, mesh_p
     special_corpus = load_list(special_corpus_path)
 
     results = []
-    min_thresh = 50
-    max_thresh = 60
+    # NOTE: this is not really a threshold, modified to use the top N keywords
+    min_thresh = 1
+    max_thresh = 600
+    
+    num_trials = 500000
 
     logger.info(f"Min thresh: {min_thresh}")
     logger.info(f"Max thresh: {max_thresh}")
@@ -134,7 +140,7 @@ def experiment_routine(gen_kw_path, special_kw_path, special_corpus_path, mesh_p
     
     pool = Pool(processes=8)
 
-    futures = [pool.apply_async(evaluate, (special_corpus, keywords, mesh, 1000, thresh, False)) for (keywords, thresh) in result_gen]
+    futures = [pool.apply_async(evaluate, (special_corpus, keywords, mesh, num_trials, thresh, False)) for (keywords, thresh) in result_gen]
     
     results = []
     for res in futures:
@@ -151,9 +157,9 @@ def experiment_routine(gen_kw_path, special_kw_path, special_corpus_path, mesh_p
     results = sorted(results, key=lambda res: res[0])
 
     with open("thresh_exp_res", "w") as out:
-        out.write("threshold\tpval\tresult_intersect_len\trand_inter_mean_len\trand_inter_max\n")
+        out.write("top_n_kws\tpval\tresult_intersect_len\tresult_len\trand_inter_mean_len\trand_inter_max\n")
         for res in results:
-            out.write(f"{res[0]}\t{res[1]}\t{res[2]}\t{res[3]}\t{res[4]}\n")
+            out.write(f"{res[0]}\t{res[1]}\t{res[2]}\t{res[3]}\t{res[4]}\t{res[5]}\n")
 
 def get_args():
     logger = logging.getLogger(__name__)
