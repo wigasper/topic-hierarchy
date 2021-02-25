@@ -71,9 +71,12 @@ def compute_p_val(method_intersect_len, random_intersect_results):
     
     numer = sum([(x - x_bar) ** 2 for x in random_intersect_results])
     std_dev = math.sqrt(numer / (len(random_intersect_results) - 1))
+    
+    if std_dev > 0:
+        z = (method_intersect_len - x_bar) / std_dev
+    else:
+        z = 0
 
-    z = (method_intersect_len - x_bar) / std_dev
-        
     return 1 - ndtr(z)
 
 def load_mesh(mesh_fp):
@@ -164,7 +167,7 @@ def evaluate(corpus, method_result, mesh, n_trials, thresh, verbose=True):
         logger.info(f"Random intersect max: {max(random_intersect_results)}")
         logger.info(f"p: {p}") 
 
-    return (thresh, p, method_intersect_len, random_mean, max(random_intersect_results))
+    return (thresh, p, method_intersect_len, len(method_result), random_mean, max(random_intersect_results))
 
 if __name__ == "__main__":
     logger = initialize_logger()
