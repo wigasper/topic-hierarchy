@@ -9,8 +9,6 @@ from multiprocessing import Pool
 
 from evaluate import evaluate, load_mesh, load_list
 
-from tqdm import tqdm
-
 def load_data(gen_kw_path, special_kw_path, min_spec_freq):
     special_keywords = {}
     general_keywords = {}
@@ -157,7 +155,7 @@ def experiment_routine(gen_kw_path, special_kw_path, special_corpus_path, mesh_p
     logger.info("Starting testing")
     result_gen = select_keywords(spec_freq_dic, len_special, gen_freq_dic, len_general, min_thresh, max_thresh)
     
-    pool = Pool(processes=8)
+    pool = Pool(processes=20)
 
     futures = [pool.apply_async(evaluate, (special_corpus, keywords, mesh, num_trials, thresh, False)) for (keywords, thresh) in result_gen]
     
